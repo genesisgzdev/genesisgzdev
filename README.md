@@ -288,7 +288,7 @@ Enterprise-level computation tool delivering arbitrary precision arithmetic thro
 
 <img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D26A&ring=00D26A&fire=FF6B6B&currStreakLabel=00D26A" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D26A&ring=00D26A&fire=FF6B6B&currStreakLabel=00D26A" alt="GitHub Streak" height="170"/>
 
 </div>
 
