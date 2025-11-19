@@ -490,9 +490,9 @@ mindmap
 
 | Certification | Status | Domain | Year |
 |--------------|--------|---------|------|
-| **OWASP Certification** | Certified | Web Application Security | 2024 |
+| **OWASP Certification** | Certified | Web Application Security | 2025 |
 | **GDPR Compliance** | Certified | Data Privacy & Protection | 2024 |
-| **ISO 27001** | Certified | Information Security Management | 2024 |
+| **ISO 27001** | Certified | Information Security Management | 2025 |
 
 ### Continuous Learning Path
 
@@ -691,11 +691,9 @@ I believe in comprehensive documentation as a fundamental aspect of professional
 - Security training and workshops
 - Technical writing and documentation
 - Freelance security consulting
-- Bug bounty programs
 
 **Areas of Interest:**
-- Advanced persistent threat (APT) research
-- Zero-day vulnerability discovery
+- persistent threat (APT) research
 - Security automation and orchestration
 - Threat intelligence platforms
 - Incident response systems
@@ -756,7 +754,7 @@ I believe in comprehensive documentation as a fundamental aspect of professional
 
 ### Legal Disclaimer
 
-THE SOFTWARE AND TOOLS PROVIDED ARE FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY. THE AUTHOR ASSUMES NO LIABILITY FOR MISUSE OR DAMAGES CAUSED BY THESE TOOLS. USERS ARE SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH ALL APPLICABLE LAWS AND REGULATIONS IN THEIR JURISDICTION.
+THE SOFTWARE AND TOOLS PROVIDED ARE FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY. THE AUTHOR ASSUMES NO LIABILITY FOR MISUSE OR DAMAGES CAUSED BY THESE TOOLS. USERS ARE SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH ALL APPLICABLE LAWS AND REGULATIONS IN THEIR JURISDICTION
 
 By using any tools or code from this repository, you agree to:
 - Use them only for legal and ethical purposes
@@ -792,16 +790,16 @@ Security research and tool development prioritize:
 | **Programming** | Python, C, C++, C#, Go | Advanced |
 | **Scripting** | Bash, Ruby, Assembly | Advanced |
 | **Web Development** | JavaScript, TypeScript, Next.js | Advanced |
-| **Security Testing** | Metasploit, Burp Suite, OWASP ZAP | Expert |
+| **Security Testing** | Metasploit, Burp Suite, OWASP ZAP | Medium |
 | **OSINT** | Reconnaissance, Data Mining, Analysis | Expert |
 | **Network Security** | Wireshark, Nmap, Aircrack-ng | Advanced |
-| **Penetration Testing** | Web Apps, Networks, Wireless | Advanced |
-| **Cryptography** | Encryption, Hashing, PKI | Advanced |
+| **Penetration Testing** | Web Apps, Networks, Wireless | Intermermediate |
+| **Cryptography** | Encryption, Hashing, PKI | Medium |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis | Advanced |
 | **DevOps** | Docker, Kubernetes, CI/CD | Intermediate |
 | **Cloud Platforms** | AWS, GCP, DigitalOcean | Intermediate |
-| **Operating Systems** | Linux, Unix, Windows | Expert |
-| **Privacy Tools** | Tor, VPN, Encryption Tools | Expert |
+| **Operating Systems** | Linux, Unix, Windows | Intermediate |
+| **Privacy Tools** | Tor, VPN, Encryption Tools | Medium |
 
 </div>
 
@@ -854,7 +852,7 @@ Security research and tool development prioritize:
 
 ---
 
-*Last Updated: November 2024*
+*Last Updated: November 2025*
 
 **Genesis • Security Research • Open Source • Privacy First**
 
