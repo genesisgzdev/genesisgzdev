@@ -1,17 +1,17 @@
 <div align="center">
 
 ```ascii
-  ██████  ███████ ███    ██ ███████ ███████ ██ ███████ 
- ██       ██      ████   ██ ██      ██      ██ ██      
- ██   ███ █████   ██ ██  ██ █████   ███████ ██ ███████ 
- ██    ██ ██      ██  ██ ██ ██           ██ ██      ██ 
-  ██████  ███████ ██   ████ ███████ ███████ ██ ███████ 
+  ██████  ███████ ███    ██ ███████ ███████ ██ ███████     ██████  ███████ 
+ ██       ██      ████   ██ ██      ██      ██ ██         ██       ██      
+ ██   ███ █████   ██ ██  ██ █████   ███████ ██ ███████    ██   ███ ███████ 
+ ██    ██ ██      ██  ██ ██ ██           ██ ██      ██    ██    ██      ██ 
+  ██████  ███████ ██   ████ ███████ ███████ ██ ███████     ██████  ███████ 
 ```
 
 ### Security Researcher • Software Engineer • OSINT Developer
 
 [![Email](https://img.shields.io/badge/Email-genzt.dev%40pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
-[![Location](https://img.shields.io/badge/Location-Uruguay-00A3E0?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Uruguay_🇺🇾-00A3E0?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Building_Tools-00D26A?style=for-the-badge&logo=statuspage&logoColor=white)]()
 
 ---
@@ -21,10 +21,10 @@
 ## Current Focus
 
 ```python
-class Genesis:
+class GenesisGZ:
     def __init__(self):
         self.role = "Security Researcher & Developer"
-        self.location = "Uruguay"
+        self.location = "Uruguay 🇺🇾"
         self.current_projects = [
             "nexus-intelligence",  # Advanced OSINT Framework
             "calcx-advanced",       # Mathematical Computation Engine
@@ -101,18 +101,18 @@ class Genesis:
 <tr>
 <td width="50%" valign="top">
 
-### [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+###  [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
 
 **Advanced OSINT Framework**
 
 A modular intelligence gathering framework designed for security professionals. Built with enterprise-grade architecture implementing responsible disclosure and operational security.
 
 **Key Features:**
-- Multi-platform reconnaissance (350+ sites)
-- Advanced OpSec with proxy support
-- GitHub intelligence & social media analysis
-- DNS enumeration & infrastructure analysis
-- Automated correlation engine
+- 🌐 Multi-platform reconnaissance (350+ sites)
+- 🔒 Advanced OpSec with proxy support
+- 📊 GitHub intelligence & social media analysis
+- 🛡️ DNS enumeration & infrastructure analysis
+- 🎯 Automated correlation engine
 
 **Tech Stack:**
 `Python` `Beautiful Soup` `Docker` `REST APIs` `Threading`
@@ -128,18 +128,18 @@ A modular intelligence gathering framework designed for security professionals. 
 </td>
 <td width="50%" valign="top">
 
-### [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
+###  [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
 
 **Professional Mathematical Engine**
 
 Enterprise-grade computation engine delivering arbitrary precision arithmetic through an elegant CLI. Battle-tested for research and engineering calculations.
 
 **Key Features:**
-- Arbitrary precision via GNU bc
-- Matrix operations & inversions
-- Numerical integration (Simpson's rule)
-- Complex number operations
-- Discrete Fourier transforms
+- ∞ Arbitrary precision via GNU bc
+-  Matrix operations & inversions
+-  Numerical integration (Simpson's rule)
+-  Complex number operations
+-  Discrete Fourier transforms
 
 **Tech Stack:**
 `Bash` `Python` `GNU bc` `awk` `POSIX`
@@ -160,8 +160,8 @@ Enterprise-grade computation engine delivering arbitrary precision arithmetic th
 
 ---
 
-## Development Activity
-
+##  Development Activity
+ 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
@@ -172,7 +172,7 @@ Enterprise-grade computation engine delivering arbitrary precision arithmetic th
 
 <div align="center">
 
-### Most Used Languages
+###  Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
 
@@ -180,13 +180,13 @@ Enterprise-grade computation engine delivering arbitrary precision arithmetic th
 
 ---
 
-## Expertise Domains
+##  Expertise Domains
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Genesis))
+  root((Genesis GZ))
     Cybersecurity
       OSINT
       Penetration Testing
@@ -217,22 +217,21 @@ mindmap
 
 ---
 
-## Certifications & Learning
+## 🎓 Certifications & Learning
 
 <div align="center">
 
 | Certification | Status | Focus Area |
 |--------------|--------|------------|
-| **OWASP** | Certified | Web Application Security |
-| **GDPR** | Certified | Data Privacy & Compliance |
-| **ISO 27001** | Certified | Information Security Management |
-| **UTU Cybersecurity** | Planned 2026 | Formal Security Education |
+| **OWASP** | ✅ Certified | Web Application Security |
+| **GDPR** | ✅ Certified | Data Privacy & Compliance |
+| **ISO 27001** | ✅ Certified | Information Security Management | 
 
 </div>
 
 ---
 
-## Professional Philosophy
+##  Professional Philosophy
 
 <div align="center">
 
@@ -270,7 +269,7 @@ goals:
 
 ---
 
-## Connect & Collaborate
+##  Connect & Collaborate
 
 <div align="center">
 
@@ -290,7 +289,7 @@ goals:
 
 ---
 
-## Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -300,22 +299,22 @@ goals:
 
 ---
 
-## Security Notice
+##  Security Notice
 
 <div align="center">
 
 **All tools and projects shared here are intended for:**
 - Authorized security assessments
 - Educational purposes
-- Ethical research with proper authorization
-- Bug bounty programs within scope
-- Personal verification with consent
+-  Ethical research with proper authorization
+-  Bug bounty programs within scope
+-  Personal verification with consent
 
 **Never for:**
-- Unauthorized access
-- Malicious activities
-- Privacy violations
-- Illegal operations
+-  Unauthorized access
+-  Malicious activities
+-  Privacy violations
+-  Illegal operations
 
 *Use responsibly. Get authorization. Respect privacy. Follow the law.*
 
@@ -325,22 +324,20 @@ goals:
 
 <div align="center">
 
-### About Me
+###  Fun Facts About Me
 
 ```javascript
 const genesis = {
     age: 21,
-    location: "Uruguay",
+    location: "🇺🇾 Uruguay",
     role: "Legal Guardian & Tech Professional",
-    background: "Self-taught cybersecurity professional",
     quirks: [
         "Overdresses in formal business attire for mundane activities",
         "Runs social experiments as hobby",
-        "Owns a Siamese cat",
-        "100% success rate in banking disputes"
+        "Self-taught cybersecurity pro",
     ],
     philosophy: "Perfectionist who values timing and growth",
-    future: "Building path to Canada 2029"
+    future: "Building path to Canada 2029 🇨🇦"
 };
 ```
 
@@ -352,12 +349,12 @@ const genesis = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=genesisgzdev&color=00D26A&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Star my repos if you find them useful • Fork and contribute • Reach out for collaborations**
+**⭐ Star my repos if you find them useful • 🍴 Fork and contribute •  Reach out for collaborations**
 
 ---
 
 *Last Updated: November 2024*
 
-**Built with care by Genesis • Security Research • Open Source • Privacy First**
+**Built with 💚 by Genesis GZ • Security Research • Open Source • Privacy First**
 
 </div>
