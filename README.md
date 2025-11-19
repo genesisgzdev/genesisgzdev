@@ -36,7 +36,7 @@ class Genesis:
         self.certifications = ["OWASP", "GDPR", "ISO 27001"]
         
         self.learning = [
-            "Advanced Exploitation Techniques",
+            "Exploitation Techniques",
             "Malware Analysis & Reverse Engineering", 
             "Cloud Security Architecture",
             "Network Protocol Analysis",
@@ -288,8 +288,6 @@ Enterprise-level computation tool delivering arbitrary precision arithmetic thro
 
 <img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D26A&ring=00D26A&fire=FF6B6B&currStreakLabel=00D26A" alt="GitHub Streak" height="170"/>
-
 </div>
 
 <div align="center">
@@ -411,7 +409,7 @@ mindmap
         Threat Modeling
         Incident Response
       Vulnerability Research
-        Zero-Day Discovery
+        Vulnerability Discovery
         Exploit Development
         Security Auditing
         Code Review
@@ -499,7 +497,7 @@ mindmap
 Currently expanding expertise in:
 - Advanced malware analysis and reverse engineering
 - Cloud security architecture and implementation
-- Zero-day vulnerability research
+- Vulnerability research methodologies
 - Advanced persistent threat (APT) detection
 - Machine learning for security applications
 - Blockchain security and smart contract auditing
@@ -693,7 +691,7 @@ I believe in comprehensive documentation as a fundamental aspect of professional
 - Freelance security consulting
 
 **Areas of Interest:**
-- persistent threat (APT) research
+- Advanced persistent threat (APT) research
 - Security automation and orchestration
 - Threat intelligence platforms
 - Incident response systems
@@ -754,7 +752,7 @@ I believe in comprehensive documentation as a fundamental aspect of professional
 
 ### Legal Disclaimer
 
-THE SOFTWARE AND TOOLS PROVIDED ARE FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY. THE AUTHOR ASSUMES NO LIABILITY FOR MISUSE OR DAMAGES CAUSED BY THESE TOOLS. USERS ARE SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH ALL APPLICABLE LAWS AND REGULATIONS IN THEIR JURISDICTION
+THE SOFTWARE AND TOOLS PROVIDED ARE FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY. THE AUTHOR ASSUMES NO LIABILITY FOR MISUSE OR DAMAGES CAUSED BY THESE TOOLS. USERS ARE SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH ALL APPLICABLE LAWS AND REGULATIONS IN THEIR JURISDICTION.
 
 By using any tools or code from this repository, you agree to:
 - Use them only for legal and ethical purposes
@@ -793,7 +791,7 @@ Security research and tool development prioritize:
 | **Security Testing** | Metasploit, Burp Suite, OWASP ZAP | Medium |
 | **OSINT** | Reconnaissance, Data Mining, Analysis | Expert |
 | **Network Security** | Wireshark, Nmap, Aircrack-ng | Advanced |
-| **Penetration Testing** | Web Apps, Networks, Wireless | Intermermediate |
+| **Penetration Testing** | Web Apps, Networks, Wireless | Intermediate |
 | **Cryptography** | Encryption, Hashing, PKI | Medium |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis | Advanced |
 | **DevOps** | Docker, Kubernetes, CI/CD | Intermediate |
