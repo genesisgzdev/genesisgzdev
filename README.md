@@ -8,246 +8,285 @@
   ██████  ███████ ██   ████ ███████ ███████ ██ ███████ 
 ```
 
-### Security Researcher · Software Engineer · OSINT Developer
+### Security Researcher • Software Engineer • OSINT Developer
 
-[![Email](https://img.shields.io/badge/Email-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
-[![Location](https://img.shields.io/badge/Location-Uruguay-00A3E0?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Email-genzt.dev%40pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+[![Location](https://img.shields.io/badge/Location-Uruguay-00A3E0?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Building_Tools-00D26A?style=for-the-badge&logo=statuspage&logoColor=white)]()
 
 ---
 
 </div>
 
-## About Me
+## Current Focus
 
 ```python
 class Genesis:
     def __init__(self):
-        self.role = "Security Researcher & Software Developer"
+        self.role = "Security Researcher & Developer"
         self.location = "Uruguay"
-        self.age = 21
-        self.focus = "Cybersecurity, OSINT, and Security Tool Development"
+        self.current_projects = [
+            "nexus-intelligence",  # Advanced OSINT Framework
+            "calcx-advanced",       # Mathematical Computation Engine
+        ]
         self.certifications = ["OWASP", "GDPR", "ISO 27001"]
-        
-    def current_projects(self):
-        return {
-            "nexus_intelligence": "Advanced OSINT framework for security professionals",
-            "calcx_advanced": "Professional-grade mathematical computation engine"
-        }
+        self.learning = ["Advanced Exploitation", "Malware Analysis", "Cloud Security"]
+        self.goals_2025 = [
+            "Expand OSINT framework capabilities",
+            "Contribute to security research community",
+            "Build enterprise-grade security tools"
+        ]
     
-    def expertise(self):
+    def get_expertise(self):
         return {
-            "security": [
-                "Open Source Intelligence (OSINT)",
-                "Penetration Testing",
-                "Security Architecture",
-                "Vulnerability Research",
-                "Operational Security"
-            ],
-            "development": [
-                "System Design",
-                "API Development",
-                "Framework Architecture",
-                "Automation Engineering",
-                "Performance Optimization"
-            ]
+            "cybersecurity": ["OSINT", "Penetration Testing", "Security Architecture"],
+            "development": ["System Design", "API Development", "Automation"],
+            "specialties": ["Intelligence Gathering", "Data Analysis", "OpSec"]
         }
 ```
 
 ---
 
-## Technical Stack
+## Technical Arsenal
 
-### Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### Languages & Frameworks
 
-### Security Tools & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assembly&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
+### Security & Intelligence
 
-### Infrastructure & DevOps
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### Infrastructure & Tools
 
-### Privacy & Security Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)
-![Mullvad VPN](https://img.shields.io/badge/Mullvad_VPN-294E73?style=flat-square&logo=mullvadvpn&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
-![VeraCrypt](https://img.shields.io/badge/VeraCrypt-0B5A9D?style=flat-square&logoColor=white)
+### Privacy & Security Stack
+
+![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Mullvad](https://img.shields.io/badge/Mullvad_VPN-294E73?style=for-the-badge&logo=mullvadvpn&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
+![VeraCrypt](https://img.shields.io/badge/VeraCrypt-0B5A9D?style=for-the-badge&logo=veracrypt&logoColor=white)
+
+</div>
 
 ---
 
 ## Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
 
-**Advanced OSINT Framework for Security Professionals**
+**Advanced OSINT Framework**
 
-A modular open-source intelligence gathering framework implementing enterprise-grade architecture with responsible disclosure practices and operational security measures.
+A modular intelligence gathering framework designed for security professionals. Built with enterprise-grade architecture implementing responsible disclosure and operational security.
 
-**Core Capabilities:**
-- Multi-platform reconnaissance across 350+ platforms
-- GitHub intelligence extraction with commit history analysis
-- Infrastructure analysis including DNS enumeration and SSL/TLS certificate inspection
-- Social media correlation and identity verification
-- Advanced operational security with TLS fingerprint randomization
+**Key Features:**
+- Multi-platform reconnaissance (350+ sites)
+- Advanced OpSec with proxy support
+- GitHub intelligence & social media analysis
+- DNS enumeration & infrastructure analysis
+- Automated correlation engine
 
-**Architecture:**
-- Concurrent request processing with configurable worker threads
-- Memory-efficient streaming for large dataset handling
-- Exponential backoff retry mechanisms with automatic failover
-- Request throttling and connection pooling
-- Pluggable module system for independent execution
+**Tech Stack:**
+`Python` `Beautiful Soup` `Docker` `REST APIs` `Threading`
 
-**Technology:** Python, Beautiful Soup, Docker, Threading, REST APIs
+**Highlights:**
+- Concurrent processing with configurable workers
+- Memory-efficient streaming for large datasets
+- TLS fingerprint randomization
+- Exponential backoff retry mechanisms
 
----
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genesisgzdev/nexus-intelligence)
+
+</td>
+<td width="50%" valign="top">
 
 ### [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
 
-**Professional-Grade Mathematical Computation Engine**
+**Professional Mathematical Engine**
 
-Enterprise-level computation tool delivering arbitrary precision arithmetic through an elegant command-line interface. Built for researchers, engineers, and professionals requiring accurate numerical analysis.
+Enterprise-grade computation engine delivering arbitrary precision arithmetic through an elegant CLI. Battle-tested for research and engineering calculations.
 
 **Key Features:**
-- Arbitrary precision arithmetic via GNU bc backend
-- Matrix operations including determinants and inversions
-- Numerical integration using Simpson's rule
-- Complex number operations in rectangular and polar forms
-- Discrete Fourier transforms for signal processing
+- Arbitrary precision via GNU bc
+- Matrix operations & inversions
+- Numerical integration (Simpson's rule)
+- Complex number operations
+- Discrete Fourier transforms
 
-**Performance:**
-- Sub-second execution for standard operations
+**Tech Stack:**
+`Bash` `Python` `GNU bc` `awk` `POSIX`
+
+**Highlights:**
+- Sub-second execution for standard ops
 - Calculations up to 10^308 magnitude
-- Memory footprint under 50MB during active computation
-- Optimized for numerical stability over microsecond-level performance
+- Persistent history management
+- 2500+ lines of optimized code
 
-**Technology:** Bash, Python, GNU bc, awk, POSIX-compliant architecture
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genesisgzdev/calcx-advanced)
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=genesisgzdev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<div align="center">
-
-### Language Distribution
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Areas of Expertise
+## Development Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D26A&ring=00D26A&fire=FF6B6B&currStreakLabel=00D26A" alt="GitHub Streak" height="170"/>
+
+</div>
+
+<div align="center">
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+---
+
+## Expertise Domains
+
+<div align="center">
 
 ```mermaid
 mindmap
   root((Genesis))
     Cybersecurity
-      Open Source Intelligence
+      OSINT
       Penetration Testing
       Security Architecture
       Vulnerability Research
-      Operational Security
-    Software Development
+      OpSec
+    Development
       System Design
       API Development
-      Framework Architecture
-      Automation Engineering
+      Automation
+      Framework Building
       Performance Optimization
-    Security Research
+    Research
       Intelligence Gathering
       Data Correlation
       Threat Analysis
       Tool Development
       Security Patterns
-    Infrastructure
-      Network Security
-      Infrastructure Analysis
+    Operations
+      Infrastructure Security
+      Network Analysis
       Incident Response
       Security Monitoring
       Privacy Engineering
 ```
 
----
-
-## Professional Certifications
-
-| Certification | Status | Domain |
-|--------------|--------|---------|
-| OWASP | Certified | Web Application Security |
-| GDPR | Certified | Data Privacy & Compliance |
-| ISO 27001 | Certified | Information Security Management |
-| UTU Cybersecurity Program | Planned 2026 | Formal Security Education |
+</div>
 
 ---
 
-## Development Philosophy
+## Certifications & Learning
 
-> **"Quality over quantity. Every line of code matters, every security measure counts."**
+<div align="center">
 
-### Core Principles
+| Certification | Status | Focus Area |
+|--------------|--------|------------|
+| **OWASP** | Certified | Web Application Security |
+| **GDPR** | Certified | Data Privacy & Compliance |
+| **ISO 27001** | Certified | Information Security Management |
+| **UTU Cybersecurity** | Planned 2026 | Formal Security Education |
 
-**Engineering Approach:**
-- Write production-grade code from inception
-- Security by design, not as an afterthought
-- Documentation prepared for senior-level review
-- Build solutions that address real-world problems
-
-**Security Ethics:**
-- Responsible disclosure in all circumstances
-- Authorization required before any security assessment
-- Privacy and boundaries respected unconditionally
-- Knowledge sharing benefits the entire community
-
-**Professional Goals:**
-- Expand open-source security toolkit
-- Contribute meaningfully to security research community
-- Develop enterprise-grade security solutions
-- Emigrate to Canada by 2029 for advanced opportunities in cybersecurity
+</div>
 
 ---
 
-## Contact
+## Professional Philosophy
 
-**Professional Inquiries:**
+<div align="center">
 
-[![Email](https://img.shields.io/badge/genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+> *"Quality over quantity. Every line of code matters, every security measure counts."*
 
-**Open to:**
+> *"Tiempo al paso, nadie es fracasado" — Time at its pace, no one is a failure*
+
+</div>
+
+### Core Values
+
+```yaml
+approach:
+  - "Write production-grade code from day one"
+  - "Security by design, not as afterthought"
+  - "Document like senior engineers will review"
+  - "Build tools that solve real problems"
+
+ethics:
+  - "Responsible disclosure always"
+  - "Never exploit without authorization"
+  - "Respect privacy and boundaries"
+  - "Knowledge sharing benefits everyone"
+
+goals:
+  short_term:
+    - "Expand open-source security toolkit"
+    - "Build stronger public presence"
+    - "Contribute to security community"
+  long_term:
+    - "Emigrate to Canada (2029)"
+    - "Join elite security research team"
+    - "Develop enterprise security solutions"
+```
+
+---
+
+## Connect & Collaborate
+
+<div align="center">
+
+### Let's Build Something Secure Together
+
+[![Email](https://img.shields.io/badge/Email-genzt.dev%40pm.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+[![ProtonMail](https://img.shields.io/badge/Secure_Contact-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+
+**Interested in:**
 - Open-source collaboration
 - Security research partnerships
 - Tool development projects
-- Professional consulting
+- Knowledge exchange
 - Freelance security work
+
+</div>
 
 ---
 
@@ -255,39 +294,70 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=genesisgzdev&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=genesisgzdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-## Legal & Ethical Notice
+## Security Notice
 
-**All tools and projects are intended exclusively for:**
-- Authorized security assessments with explicit permission
-- Educational purposes within legal frameworks
+<div align="center">
+
+**All tools and projects shared here are intended for:**
+- Authorized security assessments
+- Educational purposes
 - Ethical research with proper authorization
-- Bug bounty programs within defined scope
-- Personal verification with informed consent
+- Bug bounty programs within scope
+- Personal verification with consent
 
-**Prohibited uses:**
-- Unauthorized system access
-- Malicious activities of any kind
+**Never for:**
+- Unauthorized access
+- Malicious activities
 - Privacy violations
-- Any illegal operations
+- Illegal operations
 
-All users bear full responsibility for ensuring compliance with applicable laws and regulations in their jurisdiction, including computer fraud statutes, data protection regulations, and privacy laws.
+*Use responsibly. Get authorization. Respect privacy. Follow the law.*
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=genesisgzdev&color=58A6FF&style=flat-square&label=Profile+Views)
+### About Me
+
+```javascript
+const genesis = {
+    age: 21,
+    location: "Uruguay",
+    role: "Legal Guardian & Tech Professional",
+    background: "Self-taught cybersecurity professional",
+    quirks: [
+        "Overdresses in formal business attire for mundane activities",
+        "Runs social experiments as hobby",
+        "Owns a Siamese cat",
+        "100% success rate in banking disputes"
+    ],
+    philosophy: "Perfectionist who values timing and growth",
+    future: "Building path to Canada 2029"
+};
+```
+
+</div>
 
 ---
 
-**Genesis** | Security Research | Open Source | Privacy First
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=genesisgzdev&color=00D26A&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Star my repos if you find them useful • Fork and contribute • Reach out for collaborations**
+
+---
 
 *Last Updated: November 2024*
+
+**Built with care by Genesis • Security Research • Open Source • Privacy First**
 
 </div>
