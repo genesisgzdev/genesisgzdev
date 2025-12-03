@@ -15,8 +15,7 @@
 [![Status](https://img.shields.io/badge/Status-Building_Security_Infrastructure-00D26A?style=flat-square)]()
 [![Email](https://img.shields.io/badge/Contact-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
 
-**Self-taught cybersecurity professional since age 15**  
-**7 years building security tools and researching threat intelligence**
+**Self-taught cybersecurity since age 15**  
 
 **ISO 27001 Certified**
 
