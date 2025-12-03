@@ -16,9 +16,9 @@
 [![Email](https://img.shields.io/badge/Contact-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
 
 **Self-taught cybersecurity professional since age 15**  
-**6 years building security tools and researching threat intelligence**
+**7 years building security tools and researching threat intelligence**
 
-**OWASP Certified | GDPR Certified | ISO 27001 Certified**
+**ISO 27001 Certified**
 
 </div>
 
@@ -42,7 +42,7 @@ class Genesis:
         self.age = 22
         self.location = "Montevideo, Uruguay"
         self.started_coding = 15  # years old
-        self.years_experience = 6
+        self.years_experience = 7
         
         # Professional Identity
         self.role = "Security Researcher & Software Engineer"
@@ -58,7 +58,7 @@ class Genesis:
         self.programming_languages = {
             "expert_level": {
                 "Python": {
-                    "years": 6,
+                    "years": 3,
                     "focus": [
                         "Security framework development",
                         "API integration and design",
@@ -133,16 +133,6 @@ class Genesis:
         
         # Security Certifications
         self.certifications = {
-            "OWASP": {
-                "name": "Web Application Security Testing",
-                "year": 2025,
-                "focus": "Penetration testing methodologies, OWASP Top 10"
-            },
-            "GDPR": {
-                "name": "Data Privacy & Protection",
-                "year": 2024,
-                "focus": "EU data protection regulations, compliance"
-            },
             "ISO_27001": {
                 "name": "Information Security Management",
                 "year": 2025,
@@ -509,7 +499,7 @@ My penetration testing experience comes from authorized engagements and bug boun
 
 ### Programming Languages
 
-**Python (Expert - 6 years)**
+**Python (Expert - 3 years)**
 
 My primary language for security tool development. I write production-grade Python with comprehensive type hints, testing, and documentation.
 
@@ -681,54 +671,9 @@ Elasticsearch (Basic):
 - Log aggregation
 - Kibana visualization
 
-### Privacy & Security Infrastructure
-
-I take privacy seriously and use privacy-respecting tools exclusively.
-
-**Communication:**
-- ProtonMail: Encrypted email (genzt.dev@pm.me)
-- Signal: Encrypted messaging
-- No Facebook, no Google services
-
-**Network Privacy:**
-- Mullvad VPN: Primary VPN with WireGuard protocol
-- Tor: Anonymity for sensitive research
-- Proxy chains: Multi-hop routing
-- NextDNS: DNS-level tracking and ad blocking
-
-**Data Protection:**
-- VeraCrypt: Full disk encryption
-- Portmaster: Application-level firewall
-- KeePassXC: Password management
-- GPG: Email and file encryption
-
-**Browser:**
-- Firefox: Primary browser with privacy extensions
-- uBlock Origin: Content blocking
-- Privacy Badger: Tracker blocking
-- HTTPS Everywhere: Force HTTPS
-
 ## Professional Development
 
 ### Certifications
-
-**OWASP Certification - Web Application Security (2025)**
-
-Comprehensive web application security testing certification covering:
-- OWASP Top 10 vulnerabilities
-- Manual testing methodologies
-- Automated scanning techniques
-- Secure development practices
-- Reporting and remediation
-
-**GDPR Certification - Data Privacy & Protection (2024)**
-
-European Union data protection regulation certification covering:
-- Legal basis for data processing
-- Data subject rights (access, erasure, portability)
-- Privacy by design principles
-- Data breach notification requirements
-- International data transfers
 
 **ISO 27001 - Information Security Management (2025)**
 
@@ -738,55 +683,6 @@ International standard for information security management covering:
 - Incident management procedures
 - Business continuity planning
 - Compliance and audit processes
-
-### Continuous Learning
-
-**Current Study Areas:**
-
-Advanced exploitation techniques:
-- Return-oriented programming (ROP)
-- Heap exploitation methods
-- Kernel exploitation basics
-- Exploit mitigation bypasses
-
-Malware analysis:
-- Advanced unpacking techniques
-- Anti-analysis evasion methods
-- Rootkit detection and analysis
-- Firmware malware analysis
-
-Reverse engineering:
-- Advanced IDA Pro techniques
-- Binary diffing and patch analysis
-- Obfuscation and anti-debugging
-- Protocol reverse engineering
-
-Cloud security:
-- AWS security architecture
-- Azure security features
-- GCP security controls
-- Container security (Docker, Kubernetes)
-
-**Learning Resources:**
-
-Books I'm currently reading:
-- "The Art of Memory Forensics" by Michael Hale Ligh
-- "Practical Malware Analysis" by Michael Sikorski
-- "Windows Internals" by Mark Russinovich
-- "The Shellcoder's Handbook" by Chris Anley
-
-Blogs I follow:
-- Krebs on Security
-- Schneier on Security
-- Google Project Zero
-- Trail of Bits
-- Mandiant Threat Research
-
-Platforms I use:
-- HackTheBox for practical skills
-- TryHackMe for learning paths
-- PentesterLab for web security
-- MalwareTech blog for malware analysis
 
 ## Development Philosophy
 
@@ -918,12 +814,27 @@ I believe in giving back to the community that taught me:
 - Threat Intelligence Analyst at SOC teams
 - Security Tool Developer at security vendors
 
+**Why Canada:**
+- Strong cybersecurity industry presence
+- Advanced threat intelligence requirements
+- Robust data protection legislation
+- Opportunities for security research
+- Quality of life and professional growth
+
 **Preparation Steps:**
 - Continuing professional development
+- Building comprehensive GitHub portfolio
 - Publishing security research and findings
 - Contributing to major open source projects
 - Networking within security community
-- Language proficiency (English Intermediate, French Basic)
+- Language proficiency (English fluent, French learning)
+
+**Target Companies:**
+- Major tech companies (Google, Microsoft, Amazon)
+- Security vendors (CrowdStrike, SentinelOne, Palo Alto)
+- Threat intelligence firms (Mandiant, Recorded Future)
+- Financial institutions (banks, payment processors)
+- Government organizations (if eligible)
 
 ## Open to Collaboration
 
@@ -963,7 +874,8 @@ I'm always interested in collaborating on meaningful security projects.
 
 ## Contact & Communication
 
-**Primary Email:** genzt.dev@pm.me
+**Primary Email:** genzt.dev@pm.me (ProtonMail encrypted)  
+**Bug Reports:** genesis.issues@pm.me  
 **GitHub:** [@genesisgzdev](https://github.com/genesisgzdev)
 
 **Response Times:**
@@ -980,7 +892,7 @@ I'm always interested in collaborating on meaningful security projects.
 
 **Languages:**
 - Spanish (native)
-- English (Intermediate)
+- English (fluent - professional proficiency)
 
 ## Statistics & Activity
 
@@ -1048,13 +960,13 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-### [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+### [🔍 Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
 Advanced OSINT reconnaissance platform | Python | 1679 lines
 
-### [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
+### [🛡️ Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
 Endpoint detection & response system | C++ | Windows
 
-### [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
+### [🧮 CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
 Mathematical computation engine | Bash/Python | 2500+ lines
 
 </div>
@@ -1083,6 +995,12 @@ All tools, code, and research are intended exclusively for authorized use. Unaut
 - Commercial espionage or trade secret theft
 - Violation of platform terms of service
 - Any illegal activity under applicable law
+
+### Legal Disclaimer
+
+THE SOFTWARE AND TOOLS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 **User Responsibilities:**
 - Obtaining proper authorization before use
@@ -1158,7 +1076,7 @@ Ethical security research respects:
 
 **Inspiration:**
 - Security researchers publishing their findings
-- Tool developers solving problems
+- Tool developers solving real problems
 - Privacy advocates protecting rights
 - Ethical hackers making systems safer
 
@@ -1166,11 +1084,14 @@ Ethical security research respects:
 
 ---
 
+*Last Updated: December 2025*
+
 **Genesis | Security Research | Privacy First | Open Source**
 
 *Building secure, privacy-respecting tools for the cybersecurity community*
 
 **Technical support:** genzt.dev@pm.me  
+**Security issues:** genesis.issues@pm.me
 
 <a href="mailto:genzt.dev@pm.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
