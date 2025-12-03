@@ -8,805 +8,997 @@
 
 <div align="center">
 
-# Security Researcher | Software Engineer | OSINT Developer
+# Security Researcher & Software Engineer
 
-[![Location](https://img.shields.io/badge/Location-Uruguay-00A3E0?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-Building_Security_Tools-00D26A?style=flat-square)]()
-[![Email](https://img.shields.io/badge/Email-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+[![Location](https://img.shields.io/badge/Based_in-Montevideo,_Uruguay-1DA1F2?style=flat-square)]()
+[![Age](https://img.shields.io/badge/Age-21-00D26A?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Status-Building_Security_Infrastructure-00D26A?style=flat-square)]()
+[![Email](https://img.shields.io/badge/Contact-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
 
-**21 years old | Self-taught cybersecurity professional**  
-**Certifications:** OWASP | GDPR | ISO 27001
+**Self-taught cybersecurity professional since age 15**  
+**6 years building security tools and researching threat intelligence**
+
+**OWASP Certified | GDPR Certified | ISO 27001 Certified**
 
 </div>
 
-## About Me
+## Introduction
+
+I'm Genesis, a 22-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
+
+I don't follow trends or build generic tools. Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises.
+
+My technical background spans low-level system programming in C and C++, security tool development in Python, and automation through Bash scripting. I've spent years studying malware behavior, analyzing threat patterns, and developing detection logic that actually works in production environments.
+
+I'm currently planning to emigrate to Canada by 2029 to pursue advanced cybersecurity roles, specifically targeting positions as a Security Researcher or Malware Analyst where I can apply my technical expertise to protect systems at scale.
+
+## Technical Background
 
 ```python
 class Genesis:
     def __init__(self):
-        self.role = "Security Researcher & Software Engineer"
-        self.location = "Uruguay"
+        # Personal Information
+        self.name = "Genesis"
         self.age = 21
-        self.background = "Self-taught cybersecurity professional"
+        self.location = "Montevideo, Uruguay"
+        self.started_coding = 15  # years old
+        self.years_experience = 6
         
-        self.core_expertise = {
-            "security_research": [
-                "Open Source Intelligence (OSINT)",
-                "Endpoint Detection & Response (EDR)",
-                "Threat Intelligence Analysis",
-                "Malware Behavioral Analysis",
-                "Penetration Testing Methodologies",
-                "Vulnerability Research & Discovery",
-                "Security Tool Architecture",
-                "Operational Security (OpSec)"
-            ],
-            "software_development": [
-                "Security Framework Architecture",
-                "System-Level Programming (C/C++)",
-                "High-Performance Computing",
-                "API Design & Integration",
-                "Algorithm Implementation & Optimization",
-                "Performance Profiling & Tuning",
-                "Database Architecture & Query Optimization",
-                "Automation & Scripting"
-            ],
-            "programming_languages": {
-                "expert": ["Python", "Bash"],
-                "advanced": ["C", "C++", "Assembly"],
-                "proficient": ["C#", "JavaScript", "TypeScript", "Ruby"]
+        # Professional Identity
+        self.role = "Security Researcher & Software Engineer"
+        self.specialization = [
+            "Open Source Intelligence (OSINT)",
+            "Endpoint Detection & Response (EDR)",
+            "Malware Behavioral Analysis",
+            "Threat Intelligence Development",
+            "Security Tool Architecture"
+        ]
+        
+        # Technical Expertise
+        self.programming_languages = {
+            "expert_level": {
+                "Python": {
+                    "years": 6,
+                    "focus": [
+                        "Security framework development",
+                        "API integration and design",
+                        "Data analysis and correlation",
+                        "Automation and scripting",
+                        "Performance optimization"
+                    ],
+                    "frameworks": [
+                        "requests", "urllib3", "aiohttp",
+                        "Flask", "FastAPI",
+                        "pytest", "unittest",
+                        "pandas", "numpy"
+                    ]
+                },
+                "Bash": {
+                    "years": 5,
+                    "focus": [
+                        "System automation",
+                        "DevOps tooling",
+                        "Infrastructure management",
+                        "Deployment pipelines"
+                    ],
+                    "expertise": [
+                        "Complex scripting patterns",
+                        "Process management",
+                        "File operations",
+                        "Text processing (awk, sed, grep)"
+                    ]
+                }
+            },
+            "advanced_level": {
+                "C": {
+                    "years": 4,
+                    "focus": [
+                        "System-level programming",
+                        "Memory management",
+                        "Performance-critical code",
+                        "Linux kernel interaction"
+                    ]
+                },
+                "C++": {
+                    "years": 4,
+                    "focus": [
+                        "Windows API development",
+                        "EDR system implementation",
+                        "Malware analysis tools",
+                        "Process instrumentation"
+                    ],
+                    "apis_used": [
+                        "Windows API (kernel32, advapi32, psapi)",
+                        "WinSock2 for network operations",
+                        "NTAPI for low-level operations"
+                    ]
+                },
+                "Assembly": {
+                    "architectures": ["x86", "x64"],
+                    "use_cases": [
+                        "Reverse engineering",
+                        "Shellcode analysis",
+                        "Exploit development understanding",
+                        "Performance optimization"
+                    ]
+                }
+            },
+            "proficient_level": {
+                "C#": "Windows applications, .NET automation",
+                "JavaScript": "Web development, Node.js scripting",
+                "TypeScript": "Type-safe web applications",
+                "Ruby": "Rapid prototyping, scripting"
             }
         }
         
-        self.active_projects = [
-            "nexus-intelligence",       # OSINT framework
-            "threat-detection-suite",   # EDR system
-            "calcx-advanced"            # Mathematical engine
-        ]
+        # Security Certifications
+        self.certifications = {
+            "OWASP": {
+                "name": "Web Application Security Testing",
+                "year": 2025,
+                "focus": "Penetration testing methodologies, OWASP Top 10"
+            },
+            "GDPR": {
+                "name": "Data Privacy & Protection",
+                "year": 2024,
+                "focus": "EU data protection regulations, compliance"
+            },
+            "ISO_27001": {
+                "name": "Information Security Management",
+                "year": 2025,
+                "focus": "Security governance, risk management"
+            }
+        }
         
-        self.certifications = [
-            "OWASP - Web Application Security (2025)",
-            "GDPR - Data Privacy & Protection (2024)",
-            "ISO 27001 - Information Security Management (2025)"
-        ]
+        # Active Projects
+        self.projects = {
+            "nexus_intelligence": {
+                "type": "OSINT Framework",
+                "status": "Active Development",
+                "version": "1.0.0",
+                "lines_of_code": 1679,
+                "language": "Python",
+                "description": "Advanced reconnaissance platform"
+            },
+            "threat_detection_suite": {
+                "type": "EDR System",
+                "status": "Production",
+                "language": "C++",
+                "platform": "Windows",
+                "description": "Endpoint threat detection and response"
+            },
+            "calcx_advanced": {
+                "type": "Mathematical Engine",
+                "status": "Stable",
+                "lines_of_code": 2500,
+                "languages": ["Bash", "Python"],
+                "description": "Arbitrary precision computation"
+            }
+        }
         
-        self.goals_2025 = [
-            "Expand OSINT framework with 100+ new platforms",
-            "Develop advanced threat detection algorithms",
-            "Contribute to major open-source security projects",
-            "Publish security research papers",
-            "Build machine learning models for threat intelligence"
-        ]
+        # Career Goals
+        self.future = {
+            "target_year": 2029,
+            "destination": "Canada",
+            "target_roles": [
+                "Security Researcher",
+                "Malware Analyst",
+                "Threat Intelligence Analyst",
+                "Security Tool Developer"
+            ],
+            "objectives": [
+                "Work with advanced threat detection teams",
+                "Contribute to large-scale security infrastructure",
+                "Publish security research and findings",
+                "Develop industry-standard security tools"
+            ]
+        }
     
-    def get_learning_path(self):
-        return [
-            "Advanced exploitation techniques",
-            "Malware analysis methodologies (static & dynamic)",
-            "Reverse engineering for x86/x64 binaries",
-            "Cloud security architecture (AWS, GCP, Azure)",
-            "Container security and Kubernetes hardening",
-            "Network protocol analysis and packet crafting",
-            "Cryptographic systems implementation",
-            "Zero-trust architecture design"
-        ]
+    def get_daily_workflow(self):
+        return {
+            "morning": [
+                "Check security news and threat intelligence feeds",
+                "Review GitHub notifications and issues",
+                "Plan development priorities"
+            ],
+            "development": [
+                "Write production-grade code with tests",
+                "Document architecture decisions",
+                "Optimize performance bottlenecks",
+                "Review and refactor existing code"
+            ],
+            "research": [
+                "Study malware samples and behavior",
+                "Analyze security vulnerabilities",
+                "Experiment with detection techniques",
+                "Test evasion and detection methods"
+            ],
+            "learning": [
+                "Read security papers and blogs",
+                "Practice reverse engineering",
+                "Study exploit techniques",
+                "Learn new tools and methodologies"
+            ]
+        }
     
     def get_technical_interests(self):
-        return [
-            "OSINT methodology development and automation",
-            "EDR evasion techniques and detection logic",
-            "Living-off-the-land binary (LOLBin) abuse patterns",
-            "Behavioral malware analysis and heuristics",
-            "Privacy-preserving technologies",
-            "Threat intelligence correlation",
-            "Security tool development",
-            "Digital forensics and incident response"
-        ]
+        return {
+            "osint_development": [
+                "Platform enumeration techniques",
+                "Data correlation algorithms",
+                "Risk assessment models",
+                "Intelligence automation"
+            ],
+            "edr_research": [
+                "Behavioral detection heuristics",
+                "Process instrumentation methods",
+                "Memory forensics techniques",
+                "API hooking patterns"
+            ],
+            "malware_analysis": [
+                "Static analysis methodologies",
+                "Dynamic behavior observation",
+                "Unpacking and deobfuscation",
+                "IOC extraction and correlation"
+            ],
+            "threat_intelligence": [
+                "Indicator collection and validation",
+                "Threat actor profiling",
+                "Attack pattern recognition",
+                "Campaign tracking and attribution"
+            ]
+        }
+    
+    def get_development_philosophy(self):
+        return {
+            "code_quality": {
+                "principles": [
+                    "Production-grade from the first commit",
+                    "Comprehensive testing is not optional",
+                    "Documentation for future maintainers",
+                    "Performance matters but readability comes first",
+                    "Security considerations in every design decision"
+                ],
+                "practices": [
+                    "Type hints on all Python functions",
+                    "Google-style docstrings with examples",
+                    "Unit tests with minimum 70% coverage",
+                    "Integration tests for critical paths",
+                    "Performance profiling for bottlenecks"
+                ]
+            },
+            "security_first": {
+                "design": [
+                    "Security by design, never as afterthought",
+                    "Defense in depth across all layers",
+                    "Principle of least privilege enforcement",
+                    "Fail securely and log everything",
+                    "Assume breach mentality in architecture"
+                ],
+                "implementation": [
+                    "Input validation on all user data",
+                    "Output sanitization for injection prevention",
+                    "Parameterized queries for database operations",
+                    "Secure credential management (never hardcoded)",
+                    "Regular dependency audits and updates"
+                ]
+            },
+            "ethical_standards": {
+                "research": [
+                    "Always obtain explicit authorization",
+                    "90-day responsible disclosure timeline",
+                    "Never exploit without permission",
+                    "Report vulnerabilities to proper channels",
+                    "Respect privacy and data protection laws"
+                ],
+                "development": [
+                    "Privacy by design in all tools",
+                    "Data minimization practices",
+                    "User consent and transparency",
+                    "Right to be forgotten compliance",
+                    "Secure data handling and storage"
+                ]
+            }
+        }
 ```
 
 ## Featured Projects
 
 ### Nexus Intelligence Framework
 
-**Advanced OSINT Platform for Security Professionals**
+My most comprehensive project to date. Built from the ground up to address the fragmentation in OSINT tools. Instead of using 20 different scripts and platforms, Nexus Intelligence provides a unified framework that correlates data across sources and produces actionable intelligence.
 
-Modular intelligence gathering framework implementing automated reconnaissance across digital footprints. The platform combines GitHub profiling, domain infrastructure analysis, breach correlation, and social media enumeration with weighted risk assessment for identity verification and threat assessment.
+**What it does:**
+- Automated GitHub profile analysis with commit history forensics
+- Multi-platform social media enumeration across 20 services
+- Domain infrastructure reconnaissance with DNS and WHOIS analysis
+- Data breach correlation via Have I Been Pwned integration
+- Weighted risk assessment using seven-factor algorithm
+- Multi-format reporting (JSON, CSV, HTML, XML)
 
-**Technical Architecture**
+**Technical architecture:**
+- HTTPEngine: Connection pooling with 30 persistent connections, automatic retry with exponential backoff, user-agent rotation for fingerprint evasion
+- GitHubIntel: Extracts emails from commit history and Co-authored-by metadata, scans for exposed credentials (AWS keys, GitHub tokens, private keys)
+- DomainIntel: DNS enumeration across seven record types, email security policy detection (SPF, DMARC, DNSSEC)
+- BreachIntel: Have I Been Pwned API v3 integration with intelligent caching
+- SocialIntel: HTTP validation across 20 platforms with timeout management
+- RiskScorer: Seven-factor weighted model producing 0-100 score with classification
+- ExportManager: Multi-format export with nested data flattening
 
-Seven-module sequential intelligence pipeline:
+**Performance metrics:**
+- Complete investigation: 60 seconds average
+- API calls: 400+ per full scan
+- Memory footprint: 75MB peak
+- Single username lookup: 2.3 seconds
+- Social media scan: 45 seconds for 20 platforms
 
-**HTTPEngine** - Production request handler
-- Connection pooling: 30 persistent connections eliminate TCP handshake overhead (~40ms reduction)
-- Automatic retry: 5 attempts with exponential backoff (2s, 4s, 8s, 16s, 32s)
-- User-agent rotation: 6 browser signatures for fingerprint evasion
-- Response caching: TTL-based storage with 3600-second expiration
-- Rate limiting: X-RateLimit-Remaining and X-RateLimit-Reset tracking
-- Proxy support: HTTP, HTTPS with round-robin rotation
-- Statistics: request count, failure rate, cache hit ratio
+**Tech stack:** Python 3.8+ | requests 2.31.0 | dnspython 2.6.0 | BeautifulSoup 4.12.3 | Jinja2 3.1.3
 
-**GitHubIntel** - Comprehensive profile extraction
-- User profile: login, name, company, blog, location, email, bio, Twitter
-- Repository analysis: 42 repos with stars, forks, language statistics
-- Commit forensics: Email extraction from author metadata and Co-authored-by parsing
-- Event timeline: PushEvent, PullRequestEvent, IssuesEvent, ForkEvent, WatchEvent
-- Gist discovery: Public gist enumeration with file listings
-- Organization mapping: Membership detection and role identification
-- Credential scanning: AWS keys (AKIA*), GitHub tokens (ghp_*), RSA private keys
-- Risk indicators: Admin/root mentions, privilege escalation patterns
-- Statistics: Language distribution, repository quality metrics, fork-to-star ratios
-
-**DomainIntel** - Infrastructure reconnaissance
-- DNS enumeration: A, AAAA, MX, NS, TXT, CNAME records
-- Email security: SPF, DMARC, DKIM policy detection
-- WHOIS parsing: Registrant, registrar, creation/expiration dates
-- Vulnerability assessment: Missing SPF/DMARC, DNSSEC detection
-- Mail server analysis: MX priority ordering, hostname extraction
-- Security policy evaluation: SPF syntax validation, DMARC parsing
-
-**BreachIntel** - Data breach correlation
-- Have I Been Pwned API v3 integration
-- Per-email breach checking with cache
-- Breach name extraction from JSON responses
-- Batch processing: Multiple email verification
-- HTTP status handling: 200 (found), 404 (clean)
-
-**SocialIntel** - Cross-platform enumeration
-- 20 platforms: GitHub, GitLab, Twitter, LinkedIn, Reddit, Instagram, TikTok, YouTube, Twitch, Mastodon, StackOverflow, HackerOne, Bugcrowd, Dev.to, Medium, CodePen, Patreon, Behance, Dribbble, Discord
-- HTTP validation: 200 (exists), 404 (not found), 3xx (redirect)
-- Sequential checking with error isolation
-- Per-platform timeout configuration
-
-**RiskScorer** - Multi-factor weighted assessment
-- Seven-factor model: Exposed emails (20%), email breaches (25%), public repos (15%), activity patterns (10%), network size (10%), code vulnerabilities (10%), domain vulnerabilities (10%)
-- Score range: 0-100 with four-tier classification
-- Risk levels: CRITICAL (80-100), HIGH (60-79), MEDIUM (40-59), LOW (0-39)
-- Factor breakdown for transparency
-
-**ExportManager** - Multi-format reports
-- JSON: 2-space indent, UTF-8, datetime conversion
-- CSV: Nested flattening with dot notation
-- HTML: Jinja2 templates with color-coded risk levels
-- XML: ElementTree-based hierarchical structure
-
-**Key Implementation Details**
-
-Credential pattern scanning (regex-based):
-```python
-PATTERNS = {
-    'AWS_ACCESS_KEY': r'AKIA[0-9A-Z]{16}',
-    'GITHUB_TOKEN': r'ghp_[a-zA-Z0-9]{36}',
-    'RSA_PRIVATE_KEY': r'-----BEGIN RSA PRIVATE KEY-----',
-    'OPENSSH_PRIVATE_KEY': r'-----BEGIN OPENSSH PRIVATE KEY-----'
-}
-```
-
-Risk scoring algorithm:
-```python
-# Factor 1: Exposed Emails (20% weight)
-email_score = min(email_count * 15, 100)
-
-# Factor 2: Email Breaches (25% weight)
-breach_score = min(breached_count * 30, 100)
-
-# Factor 3: Public Repos (15% weight)
-repo_score = min(repo_count * 5, 100)
-
-# Weighted total
-total_score = sum(score * weight for score, weight in factors)
-```
-
-**Performance Metrics**
-
-Benchmarked on Ubuntu 22.04, Intel Core i7-11700K, 32GB RAM:
-
-| Operation | Time | API Calls | Memory |
-|-----------|------|-----------|--------|
-| Single username lookup | 2.3s | 15 | 25MB |
-| GitHub full analysis | 5.1s | 30 | 35MB |
-| Social media scan (20) | 45s | 20 | 50MB |
-| DNS enumeration | 3.2s | 20 | 15MB |
-| Complete investigation | 60s | 400+ | 75MB |
-
-**Technology Stack**
-
-Python 3.8+ | requests 2.31.0 | urllib3 2.2.1 | dnspython 2.6.0 | BeautifulSoup 4.12.3 | Jinja2 3.1.3 | Rich 13.7.0 | python-whois 0.8.0
-
-**Repository:** [github.com/genesisgzdev/nexus-intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+**Repository:** [nexus-intelligence](https://github.com/genesisgzdev/nexus-intelligence)
 
 ### Threat Detection Suite
 
-**Advanced EDR Framework for Windows Systems**
+Windows-focused EDR system that detects and remediates threats automatically. Built because existing EDR solutions are black boxes with no visibility into detection logic. This system is fully transparent, showing exactly what it checks and why.
 
-Endpoint detection and response system implementing automated threat identification with active remediation. Addresses sophisticated malware including rootkits, LOLBin attacks, persistence mechanisms, and command-and-control infrastructure through behavioral analysis and heuristic detection.
+**Detection capabilities:**
+- Process behavior analysis: DLL injection detection via module enumeration, AMSI bypass identification
+- API hook detection: Six-pattern signature engine covering JMP, PUSH+RET, RIP-relative techniques
+- Memory anomaly detection: Shellcode detection via executable region scanning, NOP sled identification
+- Registry persistence monitoring: Six registry path monitoring with signature-based detection
+- Network C2 detection: Connection enumeration filtering suspicious ports (4444, 5555, 6666, etc.)
+- File persistence detection: Shannon entropy calculation for encrypted file detection
+- LOLBin abuse analysis: Command-line parsing with weighted risk scoring for certutil, PowerShell, WMI
 
-**Detection Engine Architecture**
+**Automated remediation:**
+- Process termination for confirmed threats
+- Registry value cleanup for persistence removal
+- File quarantine with extension marking
+- Network disruption via process termination
 
-Seven-phase sequential analysis with automated response capabilities:
+**Performance:**
+- Full system scan: 16 seconds
+- CPU usage: 18-25% during scan
+- Memory: 78MB peak
+- Objects scanned: 5,000+ per phase
 
-**Phase 1: Process Behavior Analysis**
-- DLL injection detection via EnumProcessModules
-- High severity: 80+ loaded modules
-- Critical: 120+ modules triggers automatic termination
-- Suspicious process name patterns (audio, media, svchost)
-- AMSI bypass detection via non-standard DLL extensions (.dat, .enc, .tmp)
+**Tech stack:** C++17 | Windows API | MSVC v142 | ws2_32 | advapi32 | psapi | iphlpapi
 
-**Phase 2: API Hook Detection**
-- Six-pattern multi-signature engine:
-  - Short JMP (0xEB): 2-byte relative jump
-  - Long JMP (0xE9): 5-byte relative jump (Detours pattern)
-  - PUSH+RET (0x68...0xC3): 6-byte trampoline
-  - MOV R11 (0x49 0xBB): 12-byte x64 register trampoline
-  - RIP-relative JMP (0xFF 0x25): 6-byte position-independent
-  - RIP-relative CALL (0xFF 0x15): 6-byte call forwarding
-- Monitors five critical kernel32 APIs: CreateProcessA, CreateRemoteThread, WriteProcessMemory, LoadLibraryA, SetWindowsHookExA
-- Memory integrity verification via ReadProcessMemory
-
-**Phase 3: Memory Anomaly Detection**
-- VirtualQueryEx-based executable region enumeration
-- PAGE_EXECUTE_READWRITE and PAGE_EXECUTE_WRITECOPY detection
-- NOP sled identification: 10+ consecutive 0x90 bytes
-- Automatic process termination on shellcode detection
-- Minimum region size filtering (4KB) for false positive reduction
-
-**Phase 4: Registry Persistence Monitoring**
-- Six registry paths: HKCU/HKLM Run, RunOnce, WOW6432Node variants
-- Nine malware signatures: Audio, MSAudio, Media, WindowsUpdate, svchost, driver, sound, Spy, Monitor
-- Automatic registry value deletion via RegDeleteValueA
-- KEY_ALL_ACCESS permission enforcement
-
-**Phase 5: Network C2 Detection**
-- GetTcpTable2 enumeration filtering MIB_TCP_STATE_ESTAB
-- Suspicious ports: 4444, 5555, 6666, 7777, 8888, 9999, 31337, 12345, 666, 1337
-- Process-to-connection correlation via dwOwningPid
-- Automatic process termination on C2 port detection
-
-**Phase 6: Persistence File Detection**
-- Shannon entropy calculation: `-Σ(p × log₂(p))`
-- Critical threshold: 7.8 bits/byte for encrypted files
-- HIDDEN+SYSTEM attribute combination detection
-- Automatic file quarantine via MoveFileExA with .QUARANTINE extension
-- Temp directory scanning for encrypted persistence
-
-**Phase 7: LOLBin Abuse Analysis**
-- PEB parsing via NtQueryInformationProcess
-- Command-line extraction from PROCESS_BASIC_INFORMATION
-- Weighted risk scoring (0-100+ scale):
-  - certutil.exe: -encode (+25), -urlcache (+30), -download (+35)
-  - PowerShell: -enc (+20), IEX (+35), DownloadString (+40), -WindowStyle Hidden (+20)
-  - WMI: process + call (+50)
-- CRITICAL threshold: 85+ points triggers termination
-- HIGH threshold: 50-84 points logged only
-
-**Automated Remediation System**
-
-Four-module active response:
-
-**Process Termination Module**
-```c
-RemediateProcessTermination(DWORD pid, LPCSTR process_name)
-```
-- Opens process with PROCESS_TERMINATE rights
-- Executes TerminateProcess() with exit code 127
-- Logs ACTION_KILL_PROCESS with success/failure
-- Updates statistics: processes_killed, successful_actions
-
-**Registry Cleanup Module**
-```c
-RemediateRegistryCleanup(HKEY root, LPCSTR subkey, LPCSTR value_name)
-```
-- Opens key with KEY_ALL_ACCESS permissions
-- Deletes value via RegDeleteValueA
-- Handles ERROR_ACCESS_DENIED gracefully
-
-**File Quarantine Module**
-```c
-RemediateFileQuarantine(LPCSTR file_path)
-```
-- Moves file using MoveFileExA with MOVEFILE_REPLACE_EXISTING
-- Appends .QUARANTINE extension
-- Preserves original for forensic analysis
-
-**Network Disruption**
-- Terminates processes with C2 connections
-- Logs remote IP and port for investigation
-
-**Technical Implementation**
-
-Thread-safe logging:
-```c
-InitializeCriticalSection(&global_threat_lock);
-EnterCriticalSection(&global_threat_lock);
-// Threat logging
-LeaveCriticalSection(&global_threat_lock);
-DeleteCriticalSection(&global_threat_lock);
-```
-
-Shannon entropy calculation:
-```c
-float CalculateEntropy(LPCVOID data, DWORD size) {
-    unsigned int freq[256] = {0};
-    for (DWORD i = 0; i < size; i++) {
-        freq[((BYTE*)data)[i]]++;
-    }
-    
-    float entropy = 0.0f;
-    for (int i = 0; i < 256; i++) {
-        if (freq[i] > 0) {
-            float p = (float)freq[i] / size;
-            entropy -= p * log2f(p);
-        }
-    }
-    return entropy;  // Range: 0.0-8.0
-}
-```
-
-**Performance Characteristics**
-
-Measured on Windows 11 Pro, Intel Core i7-11700K, 32GB RAM:
-
-| Phase | Time | Objects | Memory |
-|-------|------|---------|--------|
-| Process Behavior | 2.1s | 120 processes | 15 MB |
-| API Hook Detection | 1.3s | 5 APIs | 8 MB |
-| Memory Anomaly | 4.2s | 3,500 regions | 25 MB |
-| Registry Persistence | 1.7s | ~200 values | 5 MB |
-| Network C2 | 0.8s | 45 connections | 3 MB |
-| Persistence Files | 3.5s | 1,200 files | 12 MB |
-| LOLBin Analysis | 2.4s | 15 processes | 10 MB |
-| **Total Scan** | **16.0s** | **Full system** | **78 MB peak** |
-
-Resource usage:
-- CPU: 18-25% (single-threaded)
-- Memory: 50-80MB RSS
-- Disk I/O: <5 MB/s read
-- Network: Zero (read-only)
-
-**Technology Stack**
-
-C++17 | Windows API | MSVC v142 | Visual Studio 2019+ | ws2_32 | advapi32 | shell32 | psapi | iphlpapi | ntdll
-
-**Repository:** [github.com/genesisgzdev/threat-detection-suite](https://github.com/genesisgzdev/threat-detection-suite)
+**Repository:** [threat-detection-suite](https://github.com/genesisgzdev/threat-detection-suite)
 
 ### CalcX Advanced
 
-**Professional Mathematical Computation Engine**
+Professional mathematical computation engine I built because I needed a powerful calculator that didn't require installing Mathematica or MATLAB. Provides arbitrary precision arithmetic through GNU bc backend with Python integration for complex mathematics.
 
-Arbitrary precision arithmetic engine delivering scientific calculations through command-line and interactive interfaces. Built for researchers, engineers, and professionals requiring accurate numerical analysis without specialized software overhead.
-
-**Core Architecture**
-
-Four-layer design pattern:
-
-**Computation Layer**
-- GNU bc backend for arbitrary precision arithmetic
-- Zero rounding errors in floating-point operations
-- Python math and cmath libraries for transcendental functions
-- Graceful degradation when dependencies unavailable
-
-**Interface Layer**
-- Dual-mode operation: CLI and interactive
-- Menu system with dispatch to calculation functions
-- Independent input validation per operation
-- Comprehensive error handling
-
-**Persistence Layer**
-- Calculation history with file storage
-- In-memory arrays for rapid recall
-- Maximum history size enforcement (20 entries)
-- File: `~/.calc_ultra_history.log`
-
-**Utility Layer**
-- Regex-based input validation
-- ANSI color output with reset sequences
-- Dependency detection: python3 vs python
-- Cross-platform compatibility (Unix, WSL2)
-
-**Mathematical Capabilities**
-
-Fundamental arithmetic:
-- Addition, subtraction, multiplication, division
-- Modular arithmetic and remainder
-- Operator precedence enforcement
-
-Scientific computing:
-- Trigonometric: sin, cos, tan, asin, acos, atan
-- Hyperbolic: sinh, cosh, tanh
-- Logarithmic: ln, log10, arbitrary base
-- Exponential: exp, power operations
-
-Advanced mathematics:
-- Matrix determinants via cofactor expansion
-- Matrix inversion via LU decomposition
-- Gaussian elimination for linear systems
+**Capabilities:**
+- Fundamental arithmetic with arbitrary precision
+- Scientific functions: trigonometric, hyperbolic, logarithmic, exponential
+- Advanced mathematics: matrix operations (determinants, inversion), linear systems via Gaussian elimination
 - Statistical analysis: mean, median, variance, standard deviation
-- Combinatorics: permutations, combinations, factorial
+- Complex number operations with polar form conversion
+- Number theory: prime factorization, GCD, LCM, primality testing
+- Numerical methods: integration via Simpson's rule, differentiation, ODE solving, root finding
 
-Complex numbers:
-- Rectangular form: a + bi
-- Polar form: r(cos θ + i sin θ)
-- Conversion between forms
-- Arithmetic operations
+**Features:**
+- Dual-mode operation: CLI for quick calculations, interactive for extended sessions
+- Calculation history with file persistence (20 entries)
+- Cross-platform compatibility (Unix, WSL2)
+- Regex-based input validation
+- ANSI color output
 
-Base conversion:
-- Binary (base 2)
-- Octal (base 8)
-- Decimal (base 10)
-- Hexadecimal (base 16)
+**Tech stack:** Bash 4.0+ | GNU bc 1.07+ | Python 3.6+ | awk
 
-Number theory:
-- Prime factorization with trial division
-- GCD via Euclidean algorithm
-- LCM calculation
-- Primality testing
+**Repository:** [calcx-advanced](https://github.com/genesisgzdev/calcx-advanced)
 
-Numerical methods:
-- Integration: Simpson's rule with parabolic fitting
-- Differentiation: finite differences
-- ODE solving: Euler's method
-- Root finding: Newton-Raphson iteration
-- Discrete Fourier Transform
+## Security Research Expertise
 
-**Implementation Details**
+### OSINT Methodologies
 
-Code organization:
-- 2500+ lines of optimized Bash and Python
-- Logical sections with comment headers
-- Python detection (python3 vs python)
-- Command-line argument parsing
-- History management system
+I've spent years developing and refining OSINT techniques, moving beyond basic username searches to sophisticated correlation and analysis. My approach focuses on automation, accuracy, and actionable intelligence rather than overwhelming data dumps.
 
-Input validation:
-```bash
-# Regex patterns for numeric inputs
-number_regex="^-?[0-9]+\.?[0-9]*$"
-coefficient_regex="^-?[0-9]+\.?[0-9]*$"
+**Platform enumeration:**
+- HTTP status code analysis for existence validation
+- User-agent rotation to avoid fingerprinting
+- Rate limit management to prevent blocking
+- Error handling for network failures and timeouts
 
-# Validate before computation
-if ! [[ $input =~ $number_regex ]]; then
-    echo "Error: Invalid number format"
-    return 1
-fi
-```
+**Data correlation:**
+- Cross-platform username linking
+- Email address discovery from multiple sources
+- Temporal analysis of user activity patterns
+- Organization and affiliation mapping
 
-Configuration:
-```bash
-MAX_HISTORIAL=20      # History entries retained
-PRECISION=6           # Default significant figures
-HIST_FILE="$HOME/.calc_ultra_history.log"
-```
+**Risk assessment:**
+- Multi-factor weighted scoring models
+- Breach data correlation for credential exposure
+- Infrastructure vulnerability assessment
+- Behavioral pattern analysis
 
-**Performance Metrics**
+**Intelligence presentation:**
+- Structured reporting in multiple formats
+- Risk classification with actionable recommendations
+- Evidence preservation for investigations
+- Timeline construction for incident analysis
 
-Execution times:
-- Standard arithmetic: <100ms
-- 10x10 matrix determinant: <50ms
-- 100x100 matrix operations: 200-500ms
-- Numerical integration: 100-300ms
+### Malware Analysis
 
-Scalability:
-- Calculations up to 10^308 magnitude
-- Matrix operations: 100x100 maximum
-- Floating-point precision: 15-17 digits
-- History storage: negligible disk
+My malware analysis work focuses on understanding behavior rather than just identifying signatures. I study how malware operates, persists, communicates, and evades detection to build better defensive tools.
 
-**Usage Examples**
+**Static analysis:**
+- PE header examination for anomalies
+- Import table analysis for capability assessment
+- String extraction and analysis
+- Resource section inspection
+- Entropy calculation for packing detection
 
-Command-line:
-```bash
-calcx "sqrt(144)"              # 12
-calcx "2^10"                   # 1024
-calcx "sin(3.14159/2)"         # 1
-calcx "scale=50; 4*a(1)"       # Pi to 50 decimals
-```
+**Dynamic analysis:**
+- Controlled execution in isolated environments
+- API call monitoring and logging
+- Network traffic capture and analysis
+- File system and registry modifications tracking
+- Process tree and injection technique observation
 
-Interactive mode:
-```bash
-calcx
-# Menu options:
-# 1. Solve quadratic equations
-# 2. Complex number operations
-# 3. Matrix operations
-# 4. Statistical analysis
-# 5. Numerical integration
-```
+**Behavioral patterns:**
+- Persistence mechanism identification
+- Command and control communication patterns
+- Lateral movement techniques
+- Privilege escalation methods
+- Defense evasion tactics
 
-**Technology Stack**
+**Detection development:**
+- Signature creation from static artifacts
+- Behavioral rules from dynamic analysis
+- Heuristic development for variant detection
+- YARA rule writing for pattern matching
 
-Bash 4.0+ | GNU bc 1.07+ | Python 3.6+ | awk | POSIX-compliant
+### Endpoint Detection & Response
 
-**Repository:** [github.com/genesisgzdev/calcx-advanced](https://github.com/genesisgzdev/calcx-advanced)
+Building EDR systems taught me how detection actually works in production. Most tutorials show toy examples; I focus on production-grade detection that handles real malware.
 
-## Technical Stack
+**Detection logic:**
+- Process monitoring for suspicious behavior
+- API hooking detection across multiple techniques
+- Memory scanning for shellcode and injected code
+- Registry monitoring for persistence mechanisms
+- Network connection analysis for C2 detection
+- File system monitoring for ransomware indicators
+
+**Evasion awareness:**
+- Process hollowing and injection techniques
+- Reflective DLL loading
+- Direct syscalls bypassing hooks
+- AMSI bypass methods
+- ETW patching
+- PPL/PPL-Light bypass
+
+**Response automation:**
+- Automated process termination for confirmed threats
+- Registry cleanup for persistence removal
+- File quarantine for forensic preservation
+- Network connection disruption
+- Alert generation with context
+
+### Penetration Testing
+
+My penetration testing experience comes from authorized engagements and bug bounty programs. I focus on thorough methodology and clear reporting rather than just finding vulnerabilities.
+
+**Reconnaissance:**
+- Passive information gathering from public sources
+- Active network scanning and service enumeration
+- Web application mapping and technology identification
+- DNS enumeration and subdomain discovery
+
+**Vulnerability assessment:**
+- Manual testing beyond automated scanner results
+- Business logic flaw identification
+- Authentication and authorization testing
+- Input validation testing across all parameters
+
+**Exploitation:**
+- Proof-of-concept development for findings
+- Privilege escalation testing
+- Lateral movement simulation
+- Data exfiltration demonstration
+
+**Reporting:**
+- Clear vulnerability descriptions with impact analysis
+- Reproduction steps with screenshots and evidence
+- Risk ratings with business context
+- Remediation recommendations with code examples
+
+## Technical Skills Deep Dive
 
 ### Programming Languages
 
-**Expert Level**
-- **Python** - Security tool development, API integration, data analysis, automation frameworks
-- **Bash** - Shell scripting, system automation, deployment pipelines, DevOps tooling
+**Python (Expert - 6 years)**
 
-**Advanced Level**
-- **C** - System-level programming, performance-critical code, memory management
-- **C++** - Windows API development, EDR systems, malware analysis tools
-- **Assembly** - x86/x64 reverse engineering, shellcode analysis, exploit development
+My primary language for security tool development. I write production-grade Python with comprehensive type hints, testing, and documentation.
 
-**Proficient Level**
-- **C#** - .NET applications, Windows desktop development, automation tools
-- **JavaScript/TypeScript** - Web development, API clients, Node.js services
-- **Ruby** - Scripting, automation, rapid prototyping
+Expertise areas:
+- Security framework architecture and design patterns
+- High-performance networking with connection pooling
+- API design following RESTful principles
+- Data analysis and correlation algorithms
+- Automation and scripting for security operations
+- Testing with pytest and unittest frameworks
+- Performance profiling and optimization
 
-### Security Tools & Frameworks
+Libraries I use extensively:
+- requests, urllib3, aiohttp for HTTP operations
+- dnspython for DNS operations
+- BeautifulSoup, lxml for HTML/XML parsing
+- Jinja2 for templating
+- pandas, numpy for data analysis
+- pytest for testing
+- black, flake8, mypy for code quality
 
-**Penetration Testing**
-- Kali Linux
-- Metasploit Framework
-- Burp Suite Professional
-- OWASP ZAP
-- sqlmap
-- Nmap
-- Aircrack-ng
-- John the Ripper
-- Hashcat
+**Bash (Expert - 5 years)**
 
-**Malware Analysis**
-- IDA Pro
-- Ghidra
-- x64dbg
-- OllyDbg
-- Process Hacker
-- Wireshark
-- NetworkMiner
+Beyond simple scripting - I write complex Bash programs with proper error handling, logging, and modular design.
 
-**Security Frameworks**
-- OWASP Testing Guide
-- MITRE ATT&CK Framework
-- NIST Cybersecurity Framework
-- CIS Controls
+Expertise areas:
+- System automation and deployment
+- Process management and monitoring
+- Text processing with awk, sed, grep
+- File operations and batch processing
+- DevOps tooling and CI/CD integration
+- Cross-platform compatibility handling
+
+**C (Advanced - 4 years)**
+
+System-level programming for performance-critical code and Linux system interaction.
+
+Expertise areas:
+- Memory management and pointer manipulation
+- System calls and kernel interaction
+- Performance optimization
+- Low-level file operations
+- Network programming with sockets
+- Multi-threading with pthreads
+
+**C++ (Advanced - 4 years)**
+
+Windows-focused development for security tools and EDR systems.
+
+Expertise areas:
+- Windows API programming (kernel32, advapi32, psapi)
+- Process instrumentation and monitoring
+- Registry operations and monitoring
+- Network operations with WinSock2
+- Security descriptor manipulation
+- Modern C++ features (C++11/14/17)
+
+**Assembly (Advanced - x86/x64)**
+
+Not for writing applications, but essential for reverse engineering and understanding low-level behavior.
+
+Use cases:
+- Malware reverse engineering
+- Shellcode analysis
+- Exploit understanding
+- Performance-critical sections
+- Debugging and troubleshooting
+
+### Security Tools Proficiency
+
+**Reverse Engineering:**
+- IDA Pro: Primary disassembler for malware analysis
+- Ghidra: Free alternative for decompilation
+- x64dbg: Dynamic analysis and debugging
+- OllyDbg: Legacy 32-bit debugging
+- PE-bear: PE file analysis
+- Process Hacker: Process and memory analysis
+
+**Network Analysis:**
+- Wireshark: Packet capture and protocol analysis
+- tcpdump: Command-line packet capture
+- NetworkMiner: PCAP file analysis
+- Fiddler: HTTP/HTTPS proxy and debugging
+
+**Penetration Testing:**
+- Metasploit Framework: Exploitation framework
+- Burp Suite Professional: Web application testing
+- OWASP ZAP: Automated web scanning
+- sqlmap: SQL injection automation
+- Nmap: Network scanning and enumeration
+- Nikto: Web server vulnerability scanning
+
+**Malware Analysis:**
+- Any.run: Interactive malware sandbox
+- Hybrid Analysis: Automated malware analysis
+- VirusTotal: Multi-engine malware scanning
+- YARA: Pattern matching for malware identification
+- Volatility: Memory forensics framework
 
 ### Infrastructure & DevOps
 
-**Containerization**
-- Docker (image creation, multi-stage builds)
-- Kubernetes (deployments, services, ingress)
-- Container security hardening
+**Containerization:**
+- Docker: Image creation, multi-stage builds, optimization
+- Docker Compose: Multi-container orchestration
+- Kubernetes: Deployments, services, ingress, monitoring
+- Container security: Scanning, hardening, runtime protection
 
-**Version Control & CI/CD**
-- Git (branching strategies, rebase, cherry-pick)
-- GitHub Actions (workflows, matrix builds)
-- GitLab CI/CD
+**CI/CD:**
+- GitHub Actions: Workflow automation, matrix builds
+- GitLab CI/CD: Pipeline design and optimization
+- Jenkins: Legacy pipeline management
 
-**Operating Systems**
-- Linux: Ubuntu, Debian, Arch Linux, Kali
-- Windows: 10, 11, Server 2016+
-- System administration and hardening
+**Operating Systems:**
 
-**Web Servers**
-- Nginx (load balancing, caching)
-- Apache HTTP Server
+Linux (Expert):
+- Ubuntu, Debian: Primary development environment
+- Arch Linux: Rolling release, custom configurations
+- Kali Linux: Security testing and research
+- System administration: User management, permissions, networking
+- Package management: apt, pacman, snap
+- Service management: systemd, init scripts
+
+Windows (Advanced):
+- Windows 10, 11: Desktop development and testing
+- Windows Server: 2016, 2019, 2022
+- Active Directory: Basic administration
+- PowerShell: Automation and scripting
+- Event log analysis
+- Registry operations
+
+**Web Servers:**
+- Nginx: Reverse proxy, load balancing, caching
+- Apache: Configuration and optimization
 
 ### Databases & Caching
 
-**Relational**
-- PostgreSQL (advanced queries, indexes)
-- MySQL/MariaDB
+**Relational Databases:**
 
-**NoSQL**
-- MongoDB (document storage, aggregation)
-- Redis (caching, pub/sub)
-- Elasticsearch (full-text search)
-
-**Design**
+PostgreSQL (Proficient):
 - Schema design and normalization
-- Query optimization
+- Complex queries with CTEs and window functions
+- Index optimization
+- Full-text search
 - Replication and backup
+
+MySQL/MariaDB (Proficient):
+- Query optimization
+- Stored procedures
+- Replication
+
+**NoSQL Databases:**
+
+MongoDB (Proficient):
+- Document modeling
+- Aggregation pipelines
+- Index design
+- Sharding basics
+
+Redis (Proficient):
+- Caching strategies
+- Pub/sub messaging
+- Data structures (sets, sorted sets, hashes)
+- Persistence configuration
+
+**Search Engines:**
+
+Elasticsearch (Basic):
+- Full-text search
+- Log aggregation
+- Kibana visualization
 
 ### Privacy & Security Infrastructure
 
-**Communication**
-- ProtonMail (encrypted email)
-- Signal Protocol
+I take privacy seriously and use privacy-respecting tools exclusively.
 
-**Network Privacy**
-- Mullvad VPN (WireGuard, OpenVPN)
-- Tor network
-- Proxy chains
+**Communication:**
+- ProtonMail: Encrypted email (genzt.dev@pm.me)
+- Signal: Encrypted messaging
+- No Facebook, no Google services
 
-**Data Protection**
-- VeraCrypt (full disk encryption)
-- Portmaster (application firewall)
-- NextDNS (DNS-level blocking)
+**Network Privacy:**
+- Mullvad VPN: Primary VPN with WireGuard protocol
+- Tor: Anonymity for sensitive research
+- Proxy chains: Multi-hop routing
+- NextDNS: DNS-level tracking and ad blocking
 
-### Cloud Platforms
+**Data Protection:**
+- VeraCrypt: Full disk encryption
+- Portmaster: Application-level firewall
+- KeePassXC: Password management
+- GPG: Email and file encryption
 
-**AWS**
-- EC2, S3, RDS, Lambda
-- VPC, Security Groups, IAM
+**Browser:**
+- Firefox: Primary browser with privacy extensions
+- uBlock Origin: Content blocking
+- Privacy Badger: Tracker blocking
+- HTTPS Everywhere: Force HTTPS
 
-**Google Cloud**
-- Compute Engine
-- Cloud Storage
-- Cloud Functions
+## Professional Development
 
-**DigitalOcean**
-- Droplets
-- Managed Databases
+### Certifications
 
-## Professional Certifications
+**OWASP Certification - Web Application Security (2025)**
 
-| Certification | Domain | Organization | Year |
-|--------------|--------|--------------|------|
-| OWASP Certification | Web Application Security Testing | OWASP Foundation | 2025 |
-| GDPR Compliance | Data Privacy & Protection | EU Commission | 2024 |
-| ISO 27001 | Information Security Management | ISO/IEC | 2025 |
+Comprehensive web application security testing certification covering:
+- OWASP Top 10 vulnerabilities
+- Manual testing methodologies
+- Automated scanning techniques
+- Secure development practices
+- Reporting and remediation
+
+**GDPR Certification - Data Privacy & Protection (2024)**
+
+European Union data protection regulation certification covering:
+- Legal basis for data processing
+- Data subject rights (access, erasure, portability)
+- Privacy by design principles
+- Data breach notification requirements
+- International data transfers
+
+**ISO 27001 - Information Security Management (2025)**
+
+International standard for information security management covering:
+- Risk assessment and treatment
+- Security controls implementation
+- Incident management procedures
+- Business continuity planning
+- Compliance and audit processes
+
+### Continuous Learning
+
+**Current Study Areas:**
+
+Advanced exploitation techniques:
+- Return-oriented programming (ROP)
+- Heap exploitation methods
+- Kernel exploitation basics
+- Exploit mitigation bypasses
+
+Malware analysis:
+- Advanced unpacking techniques
+- Anti-analysis evasion methods
+- Rootkit detection and analysis
+- Firmware malware analysis
+
+Reverse engineering:
+- Advanced IDA Pro techniques
+- Binary diffing and patch analysis
+- Obfuscation and anti-debugging
+- Protocol reverse engineering
+
+Cloud security:
+- AWS security architecture
+- Azure security features
+- GCP security controls
+- Container security (Docker, Kubernetes)
+
+**Learning Resources:**
+
+Books I'm currently reading:
+- "The Art of Memory Forensics" by Michael Hale Ligh
+- "Practical Malware Analysis" by Michael Sikorski
+- "Windows Internals" by Mark Russinovich
+- "The Shellcoder's Handbook" by Chris Anley
+
+Blogs I follow:
+- Krebs on Security
+- Schneier on Security
+- Google Project Zero
+- Trail of Bits
+- Mandiant Threat Research
+
+Platforms I use:
+- HackTheBox for practical skills
+- TryHackMe for learning paths
+- PentesterLab for web security
+- MalwareTech blog for malware analysis
 
 ## Development Philosophy
 
-```yaml
-code_quality:
-  principles:
-    - "Production-grade code from inception"
-    - "Comprehensive testing as standard"
-    - "Documentation for future developers"
-    - "Maintainability over cleverness"
-    - "Performance without sacrificing readability"
-  
-  practices:
-    - Type hints for all Python functions
-    - Comprehensive docstrings (Google style)
-    - Unit tests with coverage targets
-    - Integration tests for module interactions
-    - Code review before merge
+### Code Quality Standards
 
-security_first:
-  design:
-    - "Security by design, not afterthought"
-    - "Defense in depth across layers"
-    - "Principle of least privilege"
-    - "Fail securely and gracefully"
-    - "Assume breach mentality"
-  
-  implementation:
-    - Input validation on all user data
-    - Output sanitization for XSS prevention
-    - Parameterized queries for SQL injection prevention
-    - Secure credential management
-    - Regular dependency updates
+I believe in production-grade code from the first commit. No "MVP" mindset that results in technical debt.
 
-ethical_standards:
-  research:
-    - "Obtain explicit authorization always"
-    - "Responsible disclosure (90-day timeline)"
-    - "Never exploit without permission"
-    - "Report vulnerabilities properly"
-    - "Respect privacy and data protection"
-  
-  development:
-    - "Privacy by design principles"
-    - "Data minimization practices"
-    - "User consent and transparency"
-    - "Right to be forgotten compliance"
-    - "Secure data handling"
+**Type Safety:**
+- Python: Type hints on all functions, mypy validation
+- TypeScript: Strict mode enabled
+- C++: Modern C++ with strong typing
 
-collaboration:
-  open_source:
-    - "Contribute to security projects"
-    - "Share knowledge and research"
-    - "Mentor aspiring professionals"
-    - "Participate in vulnerability disclosure"
-    - "Support ethical hacking"
-  
-  communication:
-    - "Clear technical documentation"
-    - "Comprehensive API documentation"
-    - "Architecture decision records"
-    - "Security advisories"
-    - "Usage examples and tutorials"
-```
+**Documentation:**
+- Google-style docstrings with examples
+- Architecture Decision Records (ADRs) for major decisions
+- README files with installation, usage, examples
+- API documentation with request/response examples
+- Inline comments for complex logic only
 
-## Current Learning & Research
+**Testing:**
+- Unit tests for individual functions
+- Integration tests for module interactions
+- Minimum 70% code coverage
+- Test edge cases and error conditions
+- Performance tests for critical paths
 
-**Active Study Areas**
-- Advanced exploitation techniques and payload development
-- Malware analysis methodologies (static and dynamic)
-- Reverse engineering for x86/x64 binaries
-- Cloud security architecture (AWS, GCP, Azure)
-- Container security and Kubernetes hardening
-- Network protocol analysis and packet crafting
-- Cryptographic systems implementation
-- Zero-trust architecture design
+**Code Style:**
+- Python: Black formatter, flake8 linter, isort for imports
+- C++: clang-format with custom style
+- Bash: shellcheck for validation
+- Consistent naming conventions across projects
 
-**Research Interests**
-- OSINT methodology development and automation
-- Endpoint detection and response (EDR) evasion techniques
-- Living-off-the-land binary (LOLBin) abuse detection
-- Behavioral malware analysis and heuristic development
-- Privacy-preserving technologies
-- Threat intelligence correlation and analysis
-- Security tool development
-- Digital forensics and incident response
+### Security-First Design
 
-## Collaboration Opportunities
+Security isn't a feature you add later - it's a foundation you build on.
 
-Open to collaboration on:
+**Input Validation:**
+- Whitelist approach: define what's valid, reject everything else
+- Regex validation for structured input
+- Type checking before processing
+- Length limits to prevent buffer overflows
+- Sanitization before output
 
-**Open Source Security**
-- Security tool development and framework design
-- Vulnerability research and responsible disclosure
-- OSINT methodology advancement
-- EDR and detection logic improvement
-- Privacy-preserving technology implementation
+**Authentication & Authorization:**
+- Principle of least privilege
+- Secure credential storage (never hardcoded)
+- Token-based authentication where applicable
+- API key rotation support
+- Logging of authentication attempts
 
-**Research & Development**
-- Security research papers and publications
-- Proof-of-concept development for novel techniques
-- Automated security testing frameworks
-- Threat detection algorithm development
+**Data Protection:**
+- Encryption at rest for sensitive data
+- TLS for all network communication
+- Secure deletion when data no longer needed
+- Minimal data collection (privacy by design)
+- Clear data retention policies
 
-**Professional Services**
-- Security consulting and assessments
+**Error Handling:**
+- Fail securely (deny by default)
+- Log errors without exposing sensitive data
+- Graceful degradation when possible
+- Clear error messages for developers, generic for users
+- No stack traces in production
+
+### Ethical Standards
+
+**Research Ethics:**
+
+I only test on systems I own or have explicit written authorization to test. No exceptions.
+
+Authorization requirements:
+- Written permission with scope clearly defined
+- Authorized contact for questions
+- Time window specification
+- Rules of engagement documentation
+- Legal review when required
+
+Responsible disclosure:
+- 90-day disclosure timeline
+- Private initial contact
+- Detailed vulnerability report
+- Proof-of-concept code (if requested)
+- Public disclosure after remediation
+
+**Privacy Respect:**
+
+Privacy by design in all tools:
+- Data minimization: collect only what's necessary
+- User consent: clear opt-in for data collection
+- Transparency: document what data is collected and why
+- Right to be forgotten: implement data deletion
+- No tracking or analytics without consent
+
+**Open Source Contribution:**
+
+I believe in giving back to the community that taught me:
+- All personal projects are open source
+- Comprehensive documentation for contributors
+- Clear contribution guidelines
+- Welcoming to new contributors
+- Responsive to issues and pull requests
+
+## Career Trajectory
+
+### Current Status (2025)
+
+**Location:** Montevideo, Uruguay  
+**Role:** Independent Security Researcher & Developer  
+**Focus:** Building security tools, conducting research, preparing for emigration
+
+**Active Projects:**
+- Nexus Intelligence Framework (production v1.0.0)
+- Threat Detection Suite (active development)
+- CalcX Advanced (stable)
+- Multiple smaller tools and utilities
+
+**Professional Activities:**
+- Open source development and maintenance
+- Security research and vulnerability analysis
+- Technical writing and documentation
+- Community participation in security forums
+
+### Future Plans (2029)
+
+**Target Location:** Canada  
+**Target Roles:**
+- Security Researcher at tech companies or security firms
+- Malware Analyst at threat intelligence organizations
+- Threat Intelligence Analyst at SOC teams
+- Security Tool Developer at security vendors
+
+**Why Canada:**
+- Strong cybersecurity industry presence
+- Advanced threat intelligence requirements
+- Robust data protection legislation
+- Opportunities for security research
+- Quality of life and professional growth
+
+**Preparation Steps:**
+- Continuing professional development
+- Building comprehensive GitHub portfolio
+- Publishing security research and findings
+- Contributing to major open source projects
+- Networking within security community
+- Language proficiency (English fluent, French learning)
+
+**Target Companies:**
+- Major tech companies (Google, Microsoft, Amazon)
+- Security vendors (CrowdStrike, SentinelOne, Palo Alto)
+- Threat intelligence firms (Mandiant, Recorded Future)
+- Financial institutions (banks, payment processors)
+- Government organizations (if eligible)
+
+## Open to Collaboration
+
+I'm always interested in collaborating on meaningful security projects.
+
+**Security Tool Development:**
+- Framework architecture and design
+- Performance optimization
+- Testing and quality assurance
+- Documentation improvement
+- Feature development
+
+**Vulnerability Research:**
+- Coordinated disclosure programs
+- Bug bounty participation
+- Security audits and assessments
+- Proof-of-concept development
+
+**Open Source Contribution:**
+- Major security projects
+- Tool integration and plugins
+- Documentation and examples
+- Bug fixes and improvements
+
+**Research Projects:**
+- Security research papers
+- Threat intelligence analysis
+- Detection methodology development
+- Novel technique exploration
+
+**Professional Services:**
+- Security consulting for small businesses
 - Penetration testing engagements
-- Security tool customization and integration
-- Security training and workshops
+- Security tool customization
+- Training and workshops
 - Technical writing and documentation
 
-**Contact Information**
-- Technical inquiries: genzt.dev@pm.me
+## Contact & Communication
 
-## Legal & Ethical Notice
+**Primary Email:** genzt.dev@pm.me (ProtonMail encrypted)  
+**Bug Reports:** genesis.issues@pm.me  
+**GitHub:** [@genesisgzdev](https://github.com/genesisgzdev)
 
-### Authorized Use Policy
+**Response Times:**
+- General inquiries: 48-72 hours
+- Bug reports: 7-14 days depending on severity
+- Security vulnerabilities: 24-48 hours
+- Collaboration proposals: Within 1 week
 
-All tools, code, and projects are intended exclusively for:
+**Communication Preferences:**
+- Email for detailed discussions and documentation
+- GitHub issues for bug reports and feature requests
+- ProtonMail for encrypted sensitive communications
+- Written communication preferred over calls
 
-**Authorized Activities**
-- Security assessments with explicit written permission
-- Bug bounty programs within defined scope
-- Educational purposes in controlled environments
-- Academic research with institutional approval
-- Personal infrastructure testing with ownership
-- Professional security consulting with authorization
-- Defensive security implementations
+**Languages:**
+- Spanish (native)
+- English (fluent - professional proficiency)
 
-**Prohibited Uses**
-- Unauthorized access to computer systems
-- Malicious activities of any kind
-- Privacy violations, surveillance, stalking
-- Illegal operations or criminal activities
-- Harassment, intimidation, blackmail
-- Commercial espionage or corporate theft
-- Identity theft or fraud
-- Violation of platform terms of service
-
-### Legal Disclaimer
-
-THE SOFTWARE AND TOOLS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR ASSUMES NO LIABILITY FOR MISUSE OR DAMAGES. USERS ARE SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH ALL APPLICABLE LAWS.
-
-**Applicable Laws**
-- Computer Fraud and Abuse Act (CFAA) - 18 U.S.C. § 1030 (United States)
-- Computer Misuse Act 1990 (United Kingdom)
-- General Data Protection Regulation (GDPR) - EU 2016/679
-- California Consumer Privacy Act (CCPA)
-- Lei Geral de Proteção de Dados (LGPD) - Brazil
-- Local criminal statutes
-
-By using any tools or code, you agree to:
-- Use them only for legal and ethical purposes
-- Obtain proper authorization before deployment
-- Comply with all applicable laws
-- Accept full responsibility for your actions
-- Indemnify the author from any liability
-
-### Privacy & Data Protection
-
-All projects respect user privacy and comply with GDPR, CCPA, LGPD, and other applicable regulations.
-
-Security research prioritizes:
-- Privacy by design principles
-- Data minimization practices
-- Secure data handling
-- User consent and transparency
-- Right to be forgotten
-- Data portability and access rights
-
-## GitHub Statistics
+## Statistics & Activity
 
 <div align="center">
 
@@ -820,7 +1012,59 @@ Security research prioritizes:
 
 </div>
 
-## Project Showcase
+## Technology Showcase
+
+<div align="center">
+
+### Security & Research
+![OSINT](https://img.shields.io/badge/OSINT-Framework_Development-00D26A?style=for-the-badge)
+![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-00D26A?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-00D26A?style=for-the-badge)
+![EDR](https://img.shields.io/badge/EDR-Development-00D26A?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat-Intelligence-00D26A?style=for-the-badge)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86_x64-654FF0?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Proficient-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-Proficient-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Infrastructure & DevOps
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+
+### Privacy Tools
+![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Mullvad VPN](https://img.shields.io/badge/Mullvad_VPN-294D7B?style=for-the-badge)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+
+</div>
+
+## Featured Repositories
 
 <div align="center">
 
@@ -832,84 +1076,137 @@ Security research prioritizes:
 
 </div>
 
-## Activity Graph
+## Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genesisgzdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF)](https://github.com/genesisgzdev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genesisgzdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF&area=true&area_color=00D26A)](https://github.com/genesisgzdev)
 
 </div>
 
-## Technology Focus Areas
+## Legal & Ethical Notice
+
+### Authorization Policy
+
+All tools, code, and research are intended exclusively for authorized use. Unauthorized access to computer systems is illegal and unethical.
+
+**Permitted Use Cases:**
+- Security assessments with explicit written permission
+- Bug bounty programs within defined scope
+- Educational purposes in controlled lab environments
+- Personal infrastructure testing with ownership
+- Professional security consulting with authorization
+- Defensive security implementations
+- Academic research with institutional approval
+
+**Prohibited Activities:**
+- Unauthorized system access or network intrusion
+- Malicious activities causing harm or damage
+- Privacy violations, surveillance, or stalking
+- Identity theft, fraud, or financial crimes
+- Harassment, intimidation, or blackmail
+- Commercial espionage or trade secret theft
+- Violation of platform terms of service
+- Any illegal activity under applicable law
+
+### Legal Disclaimer
+
+THE SOFTWARE AND TOOLS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**User Responsibilities:**
+- Obtaining proper authorization before use
+- Compliance with all applicable laws and regulations
+- Verifying accuracy of gathered intelligence
+- Accepting full responsibility for actions
+- Indemnifying author from any liability
+
+**Applicable Laws:**
+
+Users must comply with cybersecurity and data protection laws including but not limited to:
+- Computer Fraud and Abuse Act (CFAA) - 18 U.S.C. § 1030 (United States)
+- Computer Misuse Act 1990 (United Kingdom)
+- General Data Protection Regulation (GDPR) - EU 2016/679 (European Union)
+- California Consumer Privacy Act (CCPA) (California, USA)
+- Lei Geral de Proteção de Dados (LGPD) (Brazil)
+- Personal Information Protection and Electronic Documents Act (PIPEDA) (Canada)
+- Local criminal statutes and regulations
+
+Unauthorized access, even for testing or research, may result in criminal prosecution, civil liability, and significant financial penalties.
+
+### Privacy & Data Protection
+
+All projects are designed with privacy by design principles and comply with GDPR, CCPA, LGPD, and other applicable data protection regulations.
+
+**Privacy Commitments:**
+- Data minimization: collect only necessary information
+- Purpose limitation: use data only for stated purposes
+- User consent: clear opt-in for any data collection
+- Transparency: document what data is collected and why
+- Right to be forgotten: implement data deletion capabilities
+- Data portability: enable data export in standard formats
+- Secure storage: encrypt sensitive data at rest
+- Secure transmission: use TLS for all network communication
+- No tracking: no analytics or telemetry without explicit consent
+- No third-party sharing: data stays with the user
+
+### Ethical Research Standards
+
+**Responsible Disclosure:**
+
+When vulnerabilities are discovered:
+- Private initial contact with affected party
+- Reasonable timeframe for remediation (90 days standard)
+- Detailed vulnerability report with reproduction steps
+- Proof-of-concept code (if requested and safe)
+- Coordinated public disclosure after fix
+- No exploitation or harm during research
+
+**Research Boundaries:**
+
+Ethical security research respects:
+- Legal boundaries and authorization requirements
+- Privacy of individuals and organizations
+- Confidentiality of sensitive information
+- Professional standards and codes of conduct
+- Platform terms of service and usage policies
+
+## Acknowledgments
+
+**Learning Resources:**
+- OWASP Foundation for security education
+- Offensive Security for practical training
+- HackTheBox and TryHackMe communities
+- Open source security tool developers
+- Security researchers sharing their knowledge
+
+**Open Source Community:**
+- Contributors to Python, Linux, and security tools
+- Maintainers of libraries and frameworks I use
+- Documentation writers making learning accessible
+- Community members answering questions
+
+**Inspiration:**
+- Security researchers publishing their findings
+- Tool developers solving real problems
+- Privacy advocates protecting rights
+- Ethical hackers making systems safer
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Genesis))
-    Security Research
-      OSINT
-        Reconnaissance
-        Social Media Intelligence
-        Infrastructure Mapping
-        Data Correlation
-      Penetration Testing
-        Web Application Testing
-        Network Security
-        Wireless Assessment
-        Exploitation
-      Malware Analysis
-        Static Analysis
-        Dynamic Analysis
-        Behavioral Detection
-        Reverse Engineering
-      EDR Development
-        Process Monitoring
-        API Hook Detection
-        Memory Forensics
-        Threat Correlation
-    Software Development
-      System Programming
-        Windows API
-        Linux Internals
-        Memory Management
-        Performance Optimization
-      Security Tools
-        Framework Development
-        Plugin Architecture
-        API Integration
-        Automation
-      Backend Development
-        API Design
-        Database Architecture
-        Caching Strategies
-        Microservices
-      Algorithms
-        Pattern Matching
-        Risk Scoring
-        Data Analysis
-        Machine Learning
-```
-
-</div>
-
-## Connect
-
-<div align="center">
-
-**Star repositories if useful | Fork and contribute | Reach out for collaboration**
-
-Technical support: genzt.dev@pm.me  
-Security issues: genesis.issues@pm.me
-
-</div>
-
-<div align="center">
+---
 
 *Last Updated: December 2025*
 
 **Genesis | Security Research | Privacy First | Open Source**
 
 *Building secure, privacy-respecting tools for the cybersecurity community*
+
+**Technical support:** genzt.dev@pm.me  
+**Security issues:** genesis.issues@pm.me
+
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genesisgzdev)
 
 </div>
