@@ -39,7 +39,6 @@ class Genesis:
         self.age = 22
         self.location = "Montevideo, Uruguay"
         self.started_coding = 15  # years old
-        self.years_experience = 7
         
         # Professional Identity
         self.role = "Security Researcher & Software Engineer"
