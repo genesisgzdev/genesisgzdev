@@ -824,7 +824,6 @@ I'm always interested in collaborating on meaningful security projects.
 ## Contact & Communication
 
 **Primary Email:** genzt.dev@pm.me (ProtonMail encrypted)  
-**Bug Reports:** genesis.issues@pm.me  
 **GitHub:** [@genesisgzdev](https://github.com/genesisgzdev)
 
 **Response Times:**
@@ -909,14 +908,14 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-### [🔍 Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
-Advanced OSINT reconnaissance platform | Python | 1679 lines
+### [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+Advanced OSINT reconnaissance platform 
 
-### [🛡️ Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
+### [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
 Endpoint detection & response system | C++ | Windows
 
-### [🧮 CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
-Mathematical computation engine | Bash/Python | 2500+ lines
+### [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
+Mathematical computation
 
 </div>
 
@@ -924,14 +923,11 @@ Mathematical computation engine | Bash/Python | 2500+ lines
 
 ---
 
-*Last Updated: December 2025*
-
 **Genesis | Security Research | Privacy First | Open Source**
 
 *Building secure, privacy-respecting tools for the cybersecurity community*
 
 **Technical support:** genzt.dev@pm.me  
-**Security issues:** genesis.issues@pm.me
 
 <a href="mailto:genzt.dev@pm.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
