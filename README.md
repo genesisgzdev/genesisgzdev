@@ -11,7 +11,7 @@
 # Security Researcher & Software Engineer
 
 [![Location](https://img.shields.io/badge/Based_in-Montevideo,_Uruguay-1DA1F2?style=flat-square)]()
-[![Age](https://img.shields.io/badge/Age-21-00D26A?style=flat-square)]()
+[![Age](https://img.shields.io/badge/Age-22-00D26A?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Building_Security_Infrastructure-00D26A?style=flat-square)]()
 [![Email](https://img.shields.io/badge/Contact-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
 
@@ -24,7 +24,7 @@
 
 ## Introduction
 
-I'm Genesis, a 21-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
+I'm Genesis, a 22-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
 
 I don't follow trends or build generic tools. Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises.
 
@@ -39,7 +39,7 @@ class Genesis:
     def __init__(self):
         # Personal Information
         self.name = "Genesis"
-        self.age = 21
+        self.age = 22
         self.location = "Montevideo, Uruguay"
         self.started_coding = 15  # years old
         self.years_experience = 6
@@ -1002,11 +1002,7 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="495" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="495" />
-
-<img src="https://streak-stats.demolab.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" alt="GitHub Streak" width="495" />
+<img src="https://streak-stats.demolab.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" alt="GitHub Streak" />
 
 <img src="https://komarev.com/ghpvc/?username=genesisgzdev&color=00D26A&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -1068,17 +1064,14 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-<a href="https://github.com/genesisgzdev/nexus-intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=nexus-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="Nexus Intelligence" width="400" />
-</a>
+### [🔍 Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+Advanced OSINT reconnaissance platform | Python | 1679 lines
 
-<a href="https://github.com/genesisgzdev/threat-detection-suite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=threat-detection-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="Threat Detection Suite" width="400" />
-</a>
+### [🛡️ Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
+Endpoint detection & response system | C++ | Windows
 
-<a href="https://github.com/genesisgzdev/calcx-advanced">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=calcx-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="CalcX Advanced" width="400" />
-</a>
+### [🧮 CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
+Mathematical computation engine | Bash/Python | 2500+ lines
 
 </div>
 
