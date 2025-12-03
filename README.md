@@ -140,9 +140,9 @@ class Genesis:
         self.projects = {
             "nexus_intelligence": {
                 "type": "OSINT Framework",
-                "status": "Active Development",
+                "status": "Active",
                 "version": "1.0.0",
-                "lines_of_code": 1679,
+
                 "language": "Python",
                 "description": "Advanced reconnaissance platform"
             },
@@ -158,14 +158,11 @@ class Genesis:
                 "status": "Stable",
                 "lines_of_code": 2500,
                 "languages": ["Bash", "Python"],
-                "description": "Arbitrary precision computation"
             }
         }
         
-        # Career Goals
+        # Goals
         self.future = {
-            "target_year": 2029,
-            "destination": "Canada",
             "target_roles": [
                 "Security Researcher",
                 "Malware Analyst",
@@ -173,7 +170,7 @@ class Genesis:
                 "Security Tool Developer"
             ],
             "objectives": [
-                "Work with advanced threat detection teams",
+                "Work with threat detection teams",
                 "Contribute to large-scale security infrastructure",
                 "Publish security research and findings",
                 "Develop industry-standard security tools"
@@ -202,7 +199,7 @@ class Genesis:
             "learning": [
                 "Read security papers and blogs",
                 "Practice reverse engineering",
-                "Study exploit techniques",
+                "Study exploits",
                 "Learn new tools and methodologies"
             ]
         }
