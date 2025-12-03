@@ -918,27 +918,12 @@ I believe in giving back to the community that taught me:
 - Threat Intelligence Analyst at SOC teams
 - Security Tool Developer at security vendors
 
-**Why Canada:**
-- Strong cybersecurity industry presence
-- Advanced threat intelligence requirements
-- Robust data protection legislation
-- Opportunities for security research
-- Quality of life and professional growth
-
 **Preparation Steps:**
 - Continuing professional development
-- Building comprehensive GitHub portfolio
 - Publishing security research and findings
 - Contributing to major open source projects
 - Networking within security community
-- Language proficiency (English fluent, French learning)
-
-**Target Companies:**
-- Major tech companies (Google, Microsoft, Amazon)
-- Security vendors (CrowdStrike, SentinelOne, Palo Alto)
-- Threat intelligence firms (Mandiant, Recorded Future)
-- Financial institutions (banks, payment processors)
-- Government organizations (if eligible)
+- Language proficiency (English Intermediate, French Basic)
 
 ## Open to Collaboration
 
@@ -978,8 +963,7 @@ I'm always interested in collaborating on meaningful security projects.
 
 ## Contact & Communication
 
-**Primary Email:** genzt.dev@pm.me (ProtonMail encrypted)  
-**Bug Reports:** genesis.issues@pm.me  
+**Primary Email:** genzt.dev@pm.me
 **GitHub:** [@genesisgzdev](https://github.com/genesisgzdev)
 
 **Response Times:**
@@ -996,7 +980,7 @@ I'm always interested in collaborating on meaningful security projects.
 
 **Languages:**
 - Spanish (native)
-- English (fluent - professional proficiency)
+- English (Intermediate)
 
 ## Statistics & Activity
 
@@ -1064,13 +1048,13 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-### [🔍 Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
+### [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence)
 Advanced OSINT reconnaissance platform | Python | 1679 lines
 
-### [🛡️ Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
+### [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite)
 Endpoint detection & response system | C++ | Windows
 
-### [🧮 CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
+### [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced)
 Mathematical computation engine | Bash/Python | 2500+ lines
 
 </div>
@@ -1099,12 +1083,6 @@ All tools, code, and research are intended exclusively for authorized use. Unaut
 - Commercial espionage or trade secret theft
 - Violation of platform terms of service
 - Any illegal activity under applicable law
-
-### Legal Disclaimer
-
-THE SOFTWARE AND TOOLS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
-
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 **User Responsibilities:**
 - Obtaining proper authorization before use
@@ -1180,7 +1158,7 @@ Ethical security research respects:
 
 **Inspiration:**
 - Security researchers publishing their findings
-- Tool developers solving real problems
+- Tool developers solving problems
 - Privacy advocates protecting rights
 - Ethical hackers making systems safer
 
@@ -1188,14 +1166,11 @@ Ethical security research respects:
 
 ---
 
-*Last Updated: December 2025*
-
 **Genesis | Security Research | Privacy First | Open Source**
 
 *Building secure, privacy-respecting tools for the cybersecurity community*
 
 **Technical support:** genzt.dev@pm.me  
-**Security issues:** genesis.issues@pm.me
 
 <a href="mailto:genzt.dev@pm.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
