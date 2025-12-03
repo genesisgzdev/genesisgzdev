@@ -23,7 +23,9 @@
 
 ## Introduction
 
-I am Genesis, a 22-year-old security researcher and software engineer security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
+I am Genesis, a 22-year-old security researcher and software engineer security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15,
+
+building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
 
 I don't follow trends, Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises
 
