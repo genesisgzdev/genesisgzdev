@@ -24,7 +24,7 @@
 
 ## Introduction
 
-I'm Genesis, a 22-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
+I'm Genesis, a 21-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
 
 I don't follow trends or build generic tools. Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises.
 
@@ -1002,13 +1002,13 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=genesisgzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=FFFFFF&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genesisgzdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=genesisgzdev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" alt="GitHub Streak" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=genesisgzdev&color=00D26A&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=genesisgzdev&color=00D26A&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -1068,19 +1068,17 @@ I'm always interested in collaborating on meaningful security projects.
 
 <div align="center">
 
-[![Nexus Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=nexus-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF)](https://github.com/genesisgzdev/nexus-intelligence)
+<a href="https://github.com/genesisgzdev/nexus-intelligence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=nexus-intelligence&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="Nexus Intelligence" />
+</a>
 
-[![Threat Detection Suite](https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=threat-detection-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF)](https://github.com/genesisgzdev/threat-detection-suite)
+<a href="https://github.com/genesisgzdev/threat-detection-suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=threat-detection-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="Threat Detection Suite" />
+</a>
 
-[![CalcX Advanced](https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=calcx-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF)](https://github.com/genesisgzdev/calcx-advanced)
-
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=genesisgzdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF&area=true&area_color=00D26A)](https://github.com/genesisgzdev)
+<a href="https://github.com/genesisgzdev/calcx-advanced">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=genesisgzdev&repo=calcx-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D26A&icon_color=00D26A&text_color=FFFFFF" alt="CalcX Advanced" />
+</a>
 
 </div>
 
@@ -1206,7 +1204,11 @@ Ethical security research respects:
 **Technical support:** genzt.dev@pm.me  
 **Security issues:** genesis.issues@pm.me
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genesisgzdev)
+<a href="mailto:genzt.dev@pm.me">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+</a>
+<a href="https://github.com/genesisgzdev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
