@@ -70,7 +70,7 @@ class Genesis:
                     ]
                 },
                 "Bash": {
-                    "years": 5,
+                    "years": 3,
                     "focus": [
                         "System automation",
                         "DevOps tooling",
