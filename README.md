@@ -23,13 +23,11 @@
 
 ## Introduction
 
-I'm Genesis, a 22-year-old security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
+I am Genesis, a 22-year-old security researcher and software engineer security researcher and software engineer from Uruguay. I started my journey into cybersecurity at 15, teaching myself everything from assembly language to advanced OSINT methodologies. My work focuses on building practical security tools that solve real problems: intelligence gathering frameworks, endpoint detection systems, and analysis platforms.
 
-I don't follow trends or build generic tools. Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises.
+I don't follow trends, Every project I create addresses a specific gap I've identified through hands-on research and testing. My code prioritizes production-grade quality, comprehensive documentation, and real-world usability over flashy features or academic exercises
 
-My technical background spans low-level system programming in C and C++, security tool development in Python, and automation through Bash scripting. I've spent years studying malware behavior, analyzing threat patterns, and developing detection logic that actually works in production environments.
-
-I'm currently planning to emigrate to Canada by 2029 to pursue advanced cybersecurity roles, specifically targeting positions as a Security Researcher or Malware Analyst where I can apply my technical expertise to protect systems at scale.
+My technical background spans low-level system programming in C and C++, security tool development in Python, and automation through Bash scripting. I've spent years studying malware behavior, analyzing threat patterns, and developing detection logic that actually works in production environments
 
 ## Technical Background
 
