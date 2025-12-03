@@ -807,16 +807,9 @@ I'm always interested in collaborating on meaningful security projects.
 - Detection methodology development
 - Novel technique exploration
 
-**Professional Services:**
-- Security consulting for small businesses
-- Penetration testing engagements
-- Security tool customization
-- Training and workshops
-- Technical writing and documentation
-
 ## Contact & Communication
 
-**Primary Email:** genzt.dev@pm.me (ProtonMail encrypted)  
+**Email:** genzt.dev@pm.me  
 **GitHub:** [@genesisgzdev](https://github.com/genesisgzdev)
 
 **Response Times:**
