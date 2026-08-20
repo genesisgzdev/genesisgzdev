@@ -10,9 +10,9 @@
 
 # Security Researcher & Software Engineer
 
-[![Location](https://img.shields.io/badge/Based_in-Montevideo,_Uruguay-1DA1F2?style=flat-square)]()
-[![Age](https://img.shields.io/badge/Age-22-00D26A?style=flat-square)]()
-[![Goal](https://img.shields.io/badge/Goal-Canada_Security_Research-blueviolet?style=flat-square)]()    
+[![Location](https://img.shields.io/badge/Based_in-Montevideo,_Uruguay-1DA1F2?style=flat-square)](#)
+[![Age](https://img.shields.io/badge/Age-22-00D26A?style=flat-square)](#)
+[![Goal](https://img.shields.io/badge/Goal-Canada_Security_Research-blueviolet?style=flat-square)](#)
 [![Email](https://img.shields.io/badge/Contact-genzt.dev%40pm.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:genzt.dev@pm.me)
 
 **Self-taught cybersecurity since age 15**
@@ -66,7 +66,7 @@ class Genesis:
         self.projects = {
             "threat_detection_suite": {
                 "type": "EDR System",
-                "status": "Production",
+                "status": "Active; native Windows validation pending",
                 "language": "C++/C",
                 "description": "Advanced Event-Driven EDR for Windows (Kernel + Userland)"
             },
@@ -78,7 +78,7 @@ class Genesis:
             },
             "nexus_intelligence": {
                 "type": "OSINT Framework",
-                "status": "Stable",
+                "status": "Active; clean-install validation pending",
                 "language": "Python",
                 "description": "Advanced reconnaissance and intelligence platform"
             }
@@ -94,7 +94,7 @@ class Genesis:
 ## Featured Projects
 
 ### [Threat Detection Suite (TDS)](https://github.com/genesisgzdev/threat-detection-suite)
-**Advanced Event-Driven EDR for Windows**
+**Advanced Event-Driven EDR for Windows — implementation under native validation**
 - **Kernel Interception**: Implements WFP callouts, Minifilter callbacks, and Registry/Thread notifications.
 - **Behavioral Correlation**: State-of-the-art engine to detect Early Bird injection and Process Hollowing.
 - **Forensics**: Automated process memory dumping and GTI enrichment.
@@ -108,7 +108,7 @@ class Genesis:
 - **Reliability**: Fully dockerized with Nginx load balancing and PostgreSQL persistence.
 
 ### [Nexus Intelligence Framework](https://github.com/genesisgzdev/nexus-intelligence)
-**Unified OSINT Reconnaissance Platform**
+**Unified OSINT Reconnaissance Platform — active development**
 - Automated data correlation across 20+ social platforms and GitHub forensics.
 - Weighted risk assessment algorithm for actionable intelligence.
 
