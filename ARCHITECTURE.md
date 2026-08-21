@@ -2,6 +2,10 @@
 
 Este repositorio no contiene un runtime de aplicación. Su unidad de ejecución es GitHub renderizando el README de perfil. La arquitectura útil aquí es la relación comprobable entre el índice y los cinco proyectos.
 
+## Lectura rápida
+
+El README presenta los proyectos. Cada repositorio enlazado explica dónde corre, cómo se prueba y qué necesita para funcionar. El perfil no añade integraciones entre ellos.
+
 ## 1. Índice y repositorios
 
 ~~~mermaid
@@ -17,6 +21,8 @@ flowchart TB
 ~~~
 
 Las líneas punteadas no representan una integración automática entre repositorios: TDS puede producir un JSONL que Nexus sabe ingerir si se configura `TDS_LOG_PATH`; MegaTicketing y Aegis no son dependencias de runtime del perfil.
+
+Para que el dibujo siga siendo legible, solo muestra la relación opcional que existe en el código. Las herramientas, lenguajes y servicios de cada proyecto viven en su propio README.
 
 ## 2. Qué debe concordar
 
