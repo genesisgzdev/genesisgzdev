@@ -2,9 +2,11 @@
 
 Trabajo en seguridad defensiva, sistemas Windows y software que tiene que comportarse bien cuando deja de estar en el camino feliz.
 
+En 30 segundos: este perfil es un índice de proyectos. Cada enlace lleva al repositorio donde están el código, las pruebas y los límites de confianza. No hay una plataforma compartida detrás de esta página.
+
 Vivo en Montevideo, Uruguay. Aprendí de forma práctica y me interesa especialmente entender el sistema que hay debajo: procesos, red, políticas, persistencia, telemetría y los límites reales de una herramienta antes de llamarla terminada.
 
-## En qué estoy trabajando
+## Proyectos
 
 | Proyecto | Enfoque | Estado honesto |
 | --- | --- | --- |
@@ -16,9 +18,11 @@ Vivo en Montevideo, Uruguay. Aprendí de forma práctica y me interesa especialm
 
 ## Cómo trabajo
 
-Me importa que una afirmación tenga una prueba detrás. En proyectos de seguridad eso significa distinguir entre código compilado, tests automatizados y comportamiento observado sobre el sistema real. También prefiero documentar los límites antes que esconderlos detrás de palabras como “enterprise” o “production-ready”.
+Me importa que cada afirmación tenga una prueba detrás. En proyectos de seguridad eso significa distinguir entre código compilado, tests automatizados y comportamiento observado sobre el sistema real.
 
 Mis herramientas habituales incluyen C, C++, Python, TypeScript, Node.js, PostgreSQL, Redis, Docker y GitHub Actions. El stack cambia según el problema; la exigencia de poder reproducirlo no.
+
+Los estados de la tabla indican si el proyecto tiene tests, compilación comprobada o una prueba pendiente sobre el sistema real.
 
 ## Contacto
 
