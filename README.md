@@ -23,3 +23,5 @@ Mis herramientas habituales incluyen C, C++, Python, TypeScript, Node.js, Postgr
 ## Contacto
 
 Puedes encontrarme en [GitHub](https://github.com/genesisgzdev) o escribirme a [genzt.dev@pm.me](mailto:genzt.dev@pm.me).
+
+El mapa de este repositorio está en [ARCHITECTURE.md](ARCHITECTURE.md). Los detalles técnicos viven en cada proyecto enlazado.
