@@ -10,11 +10,11 @@ Vivo en Montevideo, Uruguay. Aprendí de forma práctica y me interesa especialm
 
 | Proyecto | Enfoque | Estado honesto |
 | --- | --- | --- |
-| [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite) | Ingeniería de detección para Windows con C/C++ y capas nativas | La base de compilación y los contratos de CI están cubiertos. La validación nativa de driver y runtime sigue siendo una etapa separada. |
-| [Project MegaTicketing](https://github.com/genesisgzdev/Project-MegaTicketing) | Reservas concurrentes con Fastify, PostgreSQL, Redis, Stripe y React | La reserva usa PostgreSQL como autoridad y tiene pruebas de carrera e integración para ejecutar con servicios reales. |
-| [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence) | OSINT y análisis forense local con Python y SQLite | La canalización funciona de forma local con DNS, TLS, web, mail y correlación TF-IDF. La cobertura depende de los servicios que respondan en cada entorno. |
-| [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced) | Calculadora científica de consola con evaluación AST segura | CLI estable con precisión Decimal, complejos, matrices y métodos numéricos. |
-| [Aegis11](https://github.com/genesisgzdev/Aegis11) | Políticas y reconciliación de estado para Windows | Tiene baseline de compilación Windows. El comportamiento privilegiado debe validarse en una máquina aislada antes de considerarlo operativo. |
+| [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite) | Ingeniería de detección para Windows con C/C++ y capas nativas | El ABI, los callbacks de proceso/imagen/hilo, la cola acotada y sus contadores tienen checks de contrato. La validación nativa de driver y runtime sigue siendo una etapa separada. |
+| [Project MegaTicketing](https://github.com/genesisgzdev/Project-MegaTicketing) | Reservas concurrentes con Fastify, PostgreSQL, Redis, Stripe y React | PostgreSQL decide la venta y un outbox transaccional evita perder el evento entre el commit y Redis. La integración real requiere DB, Redis y Stripe. |
+| [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence) | OSINT y análisis forense local con Python y SQLite | DNS, redirects, persistencia WAL, informes y correlación TF-IDF tienen límites explícitos. La cobertura depende de los servicios que respondan en cada entorno. |
+| [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced) | Calculadora científica de consola con evaluación AST segura | CLI con allow-list, límites contra operaciones desproporcionadas, Decimal, complejos, matrices y métodos numéricos. |
+| [Aegis11](https://github.com/genesisgzdev/Aegis11) | Políticas y reconciliación de estado para Windows | El WAL valida framing y deja marcada la recuperación; los tipos de registro están alineados con Win32. El comportamiento privilegiado debe validarse en una máquina aislada. |
 
 ## Cómo trabajo
 
