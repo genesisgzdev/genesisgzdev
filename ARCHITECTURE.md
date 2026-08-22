@@ -4,7 +4,7 @@ Este repositorio no contiene un runtime de aplicación. Su unidad de ejecución 
 
 ## Lectura rápida
 
-El README presenta los proyectos. Cada repositorio enlazado explica dónde corre, cómo se prueba y qué necesita para funcionar. El perfil no añade integraciones entre ellos.
+El README presenta los proyectos y enlaza su release publicada. Cada repositorio explica dónde corre, cómo se prueba y qué necesita para funcionar. El perfil no añade integraciones entre ellos.
 
 ## 1. Índice y repositorios
 
