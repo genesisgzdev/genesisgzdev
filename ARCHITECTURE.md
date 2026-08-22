@@ -8,7 +8,7 @@ El README presenta los proyectos y enlaza su release publicada. Cada repositorio
 
 ## 1. Índice y repositorios
 
-~~~mermaid
+```mermaid
 flowchart TB
     GH[GitHub profile renderer] --> README[genesisgzdev README]
     README --> TDS[threat-detection-suite]
@@ -18,7 +18,7 @@ flowchart TB
     README --> AEGIS[Aegis11]
     TDS -. optional JSONL .-> NEXUS
     MEGA -. operationally separate .-> TDS
-~~~
+```
 
 Las líneas punteadas no representan una integración automática entre repositorios: TDS puede producir un JSONL que Nexus sabe ingerir si se configura `TDS_LOG_PATH`; MegaTicketing y Aegis no son dependencias de runtime del perfil.
 
