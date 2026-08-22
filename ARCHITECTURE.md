@@ -29,9 +29,9 @@ Para que el dibujo siga siendo legible, solo muestra la relación opcional que e
 | Campo del perfil | Fuente que debe respaldarlo | Límite |
 | --- | --- | --- |
 | TDS | README, CMake, WDK project and CI | driver/runtime requieren Windows + WDK |
-| MegaTicketing | routes, Prisma schema, Redis and Stripe controllers | integración real requiere DB, Redis, Stripe |
-| Nexus | CLI, five analysis modules, SQLite and TF-IDF | respuestas dependen del objetivo/network |
-| CalcX | cli.py, engine.py, shell wrapper and tests | no certifica cálculos críticos |
-| Aegis11 | main.cpp, modules, WAL and Windows CI | privilegios/runtime aún requieren laboratorio |
+| MegaTicketing | routes, Prisma schema, outbox, Redis and Stripe controllers | integración real requiere DB, Redis, Stripe |
+| Nexus | CLI, five analysis modules, SQLite WAL and TF-IDF | respuestas dependen del objetivo/network |
+| CalcX | cli.py, bounded engine, shell wrapper and tests | no certifica cálculos críticos |
+| Aegis11 | main.cpp, modules, framed WAL and Windows CI | privilegios/runtime aún requieren laboratorio |
 
 El README de perfil es un índice editorial, no una capa que pueda convertir checks de CI en validación de producción. Los detalles de cada flujo viven en el `docs/ARCHITECTURE.md` del repositorio correspondiente.
