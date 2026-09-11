@@ -1,33 +1,27 @@
 # Genesis
 
-Trabajo en seguridad defensiva, sistemas Windows y software que tiene que comportarse bien cuando deja de estar en el camino feliz.
+Creo herramientas para entender mejor un equipo, resolver cuentas y organizar reservas. Me interesa que puedas usarlas sin tener que aprender primero cómo están construidas.
 
-En 30 segundos: este perfil es un índice de proyectos. Cada enlace lleva al repositorio donde están el código, las pruebas y los límites de confianza. No hay una plataforma compartida detrás de esta página.
+## ¿Qué quieres hacer?
 
-Vivo en Montevideo, Uruguay. Aprendí de forma práctica y me interesa especialmente entender el sistema que hay debajo: procesos, red, políticas, persistencia, telemetría y los límites reales de una herramienta antes de llamarla terminada.
+| Quieres | Abre |
+| --- | --- |
+| Hacer cuentas, porcentajes y cálculos científicos | [CalcX](https://github.com/genesisgzdev/calcx-advanced) |
+| Entender la web y el correo de tu dominio | [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence) |
+| Revisar actividad inusual de Windows | [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite) |
+| Revisar y recuperar ajustes de privacidad de Windows | [Aegis11](https://github.com/genesisgzdev/Aegis11) |
+| Consultar eventos y solicitar reservas de asientos | [MegaTicketing](https://github.com/genesisgzdev/Project-MegaTicketing) |
 
-## Proyectos
+Cada proyecto empieza con una explicación breve y una guía de uso. Los detalles de código, diagramas y pruebas tienen su lugar dentro de cada repositorio.
 
-| Proyecto | Enfoque | Estado honesto | Release publicada |
-| --- | --- | --- | --- |
-| [Threat Detection Suite](https://github.com/genesisgzdev/threat-detection-suite) | Ingeniería de detección para Windows con C/C++ y capas nativas | El ABI, los callbacks de proceso/imagen/hilo, los campos de red WFP y las dos colas acotadas tienen checks de contrato. La política del driver depende del ACL del device, no del nombre del proceso. La validación nativa de driver y ETW sigue siendo una etapa separada. | [v5.6.7](https://github.com/genesisgzdev/threat-detection-suite/releases/tag/v5.6.7) |
-| [Project MegaTicketing](https://github.com/genesisgzdev/Project-MegaTicketing) | Reservas concurrentes con Fastify, PostgreSQL, Redis, Stripe y React | PostgreSQL decide la venta, el outbox conserva eventos y reclama filas con lease recuperable entre réplicas. El ticket guarda importe, moneda y PaymentIntent; los webhooks tardíos comprueban el TTL y cancelan antes del refund. La integración real requiere DB, Redis y Stripe. | [v2.1.4](https://github.com/genesisgzdev/Project-MegaTicketing/releases/tag/v2.1.4) |
-| [Nexus Intelligence](https://github.com/genesisgzdev/nexus-intelligence) | OSINT y análisis forense local con Python y SQLite | DNS, redirects y cada solicitud HTTP se fijan a destinos públicos validados; TLS/SMTP, persistencia WAL, informes y correlación TF-IDF tienen límites explícitos. El modo bulk puede generar un resumen de similitudes entre objetivos con `--correlate`. | [v3.3.2](https://github.com/genesisgzdev/nexus-intelligence/releases/tag/v3.3.2) |
-| [CalcX Advanced](https://github.com/genesisgzdev/calcx-advanced) | Calculadora científica de consola con evaluación AST segura | CLI con allow-list, presupuestos para AST, matrices, integración y DFT, Decimal, complejos y métodos numéricos. La precisión configurable no convierte las funciones `math`/`cmath` en aritmética arbitraria. | [v2.0.5](https://github.com/genesisgzdev/calcx-advanced/releases/tag/v2.0.5) |
-| [Aegis11](https://github.com/genesisgzdev/Aegis11) | Políticas y reconciliación de estado para Windows | El WAL valida framing y reconstruye el último estado durable por transacción antes de recuperar; el CLI puede capturar un baseline de servicios y tareas soportados. `--apply`, Balanced y Aggressive se rechazan hasta que sus mutaciones tengan rollback con paridad. La tarea de reinforcement está desactivada por la misma razón. La restauración completa y el comportamiento privilegiado deben validarse por separado en una máquina aislada. | [v0.1.2](https://github.com/genesisgzdev/Aegis11/releases/tag/v0.1.2) |
+## Antes de empezar
 
-## Cómo trabajo
+CalcX funciona localmente con Python. Nexus necesita además conexión a internet para consultar dominios autorizados. TDS y Aegis trabajan con Windows y requieren preparar sus componentes. MegaTicketing necesita que un organizador publique el servicio, los eventos y el acceso de reserva.
 
-Me importa que cada afirmación tenga una prueba detrás. En proyectos de seguridad eso significa distinguir entre código compilado, tests automatizados y comportamiento observado sobre el sistema real.
+Son proyectos independientes. No tienes que instalar los cinco para utilizar uno. Esta página es el punto de entrada y no ejecuta servicios ni reúne tus datos.
 
-Mis herramientas habituales incluyen C, C++, Python, TypeScript, Node.js, PostgreSQL, Redis, Docker y GitHub Actions. El stack cambia según el problema; la exigencia de poder reproducirlo no.
+## Cómo reviso el trabajo
 
-Los estados de la tabla indican si el proyecto tiene tests, compilación comprobada o una prueba pendiente sobre el sistema real.
+Las pruebas comprueban comportamientos concretos. Un resultado correcto ayuda a revisar un cambio, pero no convierte una función pendiente en una función terminada. Las guías distinguen lo que puedes hacer hoy de lo que todavía necesita integración.
 
-La tabla se actualiza cuando cambia una frontera importante. No sustituye los checks ni las arquitecturas de cada repositorio: allí están los comandos, versiones y límites exactos que respaldan cada estado.
-
-## Contacto
-
-Puedes encontrarme en [GitHub](https://github.com/genesisgzdev) o escribirme a [genzt.dev@pm.me](mailto:genzt.dev@pm.me).
-
-El mapa de este repositorio está en [ARCHITECTURE.md](ARCHITECTURE.md). Los detalles técnicos viven en cada proyecto enlazado.
+Puedes seguir el código y las conversaciones de cada proyecto en [GitHub](https://github.com/genesisgzdev). El [mapa de este perfil](ARCHITECTURE.md) explica cómo se organizan los enlaces.
