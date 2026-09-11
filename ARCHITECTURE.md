@@ -8,21 +8,15 @@ El README presenta los proyectos y enlaza su release publicada. Cada repositorio
 
 ## 1. Índice y repositorios
 
-~~~mermaid
-flowchart TB
-    GH[GitHub profile renderer] --> README[genesisgzdev README]
-    README --> TDS[threat-detection-suite]
-    README --> MEGA[Project-MegaTicketing]
-    README --> NEXUS[nexus-intelligence]
-    README --> CALCX[calcx-advanced]
-    README --> AEGIS[Aegis11]
-    TDS -. optional JSONL .-> NEXUS
-    MEGA -. operationally separate .-> TDS
-~~~
+| Proyecto | Entrada y estado persistente | Mapa completo |
+| --- | --- | --- |
+| TDS | Servicio Windows; JSONL; driver opcional | [Archivos y flujos](https://github.com/genesisgzdev/threat-detection-suite/blob/97e5acf8cebdde5bdfebc48bea2bd363548f873b/docs/REPOSITORY_MAP.md) |
+| MegaTicketing | Fastify/React; PostgreSQL y Redis | [Archivos y flujos](https://github.com/genesisgzdev/Project-MegaTicketing/blob/bb67ae76678e12603ef4513195a5d74b15fcbcf4/docs/REPOSITORY_MAP.md) |
+| Nexus | CLI Python; SQLite e informes | [Archivos y flujos](https://github.com/genesisgzdev/nexus-intelligence/blob/49d6f2f2f5a0e4e849824af1d256eb4cfb969e48/docs/REPOSITORY_MAP.md) |
+| CalcX | CLI Python; configuración e historial XDG | [Archivos y flujos](https://github.com/genesisgzdev/calcx-advanced/blob/0692aa44f358fab93832e98ee41f8c9a919f8559/docs/REPOSITORY_MAP.md) |
+| Aegis11 | CLI Windows; WAL y snapshots JSON | [Archivos y flujos](https://github.com/genesisgzdev/Aegis11/blob/6bf41ebe1901539be93429794684dd64788c1c07/docs/REPOSITORY_MAP.md) |
 
-Las líneas punteadas no representan una integración automática entre repositorios: TDS puede producir un JSONL que Nexus sabe ingerir si se configura `TDS_LOG_PATH`; MegaTicketing y Aegis no son dependencias de runtime del perfil.
-
-Para que el dibujo siga siendo legible, solo muestra la relación opcional que existe en el código. Las herramientas, lenguajes y servicios de cada proyecto viven en su propio README.
+Nexus puede ingerir el JSONL de TDS mediante configuración explícita. No hay integración automática entre los cinco proyectos. MegaTicketing no depende de TDS ni Aegis11.
 
 ## 2. Qué debe concordar
 
@@ -35,3 +29,12 @@ Para que el dibujo siga siendo legible, solo muestra la relación opcional que e
 | Aegis11 | main.cpp, modules, framed WAL and Windows CI | privilegios/runtime aún requieren laboratorio |
 
 El README de perfil es un índice editorial, no una capa que pueda convertir checks de CI en validación de producción. Los detalles de cada flujo viven en el `docs/ARCHITECTURE.md` del repositorio correspondiente.
+
+## Inventario del perfil
+
+| Archivo | Responsabilidad |
+| --- | --- |
+| [README.md](README.md) | Presentación y enlaces de proyectos/releases |
+| [ARCHITECTURE.md](ARCHITECTURE.md) | Relaciones, fuentes e inventario |
+
+Las releases enlazadas son versiones publicadas; pueden ser anteriores a las correcciones de main. Los badges de CI de cada proyecto y su historial de commits determinan qué revisión fue validada.
